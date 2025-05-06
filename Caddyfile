@@ -3,6 +3,6 @@
     acme_ca https://acme-staging-v02.api.letsencrypt.org/directory
 }
 
-turing_machine.localhost {
-    reverse_proxy turing_machine:80
+turing-machine.localhost {
+    reverse_proxy turing-machine:80
 }

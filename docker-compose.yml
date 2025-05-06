@@ -1,16 +1,16 @@
 version: '3'
 
 services:
-  turing_machine:
+  turing-machine:
     image: php:7.4-apache
-    container_name: turing_machine
+    container_name: turing-machine
     ports:
       - 8443:80
     volumes:
       - ./:/var/www/html
       - ./php.ini:/etc/php/7.4/apache2/php.ini
     networks:
-      - turing_network
+      - turing-network
 
   caddy:
     image: caddy:latest
@@ -21,8 +21,8 @@ services:
     volumes:
       - ./Caddyfile:/etc/caddy/Caddyfile
     networks:
-      - turing_network
+      - turing-network
 
 networks:
-  turing_network:
+  turing-network:
     driver: bridge
