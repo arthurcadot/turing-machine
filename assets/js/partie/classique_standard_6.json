@@ -1,0 +1,4002 @@
+{
+    "#B63823I": {
+        "carteCritere": "3,5,9,17,19,22",
+        "carteVerification": "464,763,785,541,317,487"
+    },
+    "#B63ZNLD": {
+        "carteCritere": "2,9,14,16,18,22",
+        "carteVerification": "587,219,694,515,424,536"
+    },
+    "#B65C7ZQ": {
+        "carteCritere": "7,8,15,17,21,22",
+        "carteVerification": "405,212,663,625,499,487"
+    },
+    "#B64AYB0": {
+        "carteCritere": "3,5,14,17,19,20",
+        "carteVerification": "346,758,322,618,315,516"
+    },
+    "#B65ARO4": {
+        "carteCritere": "5,9,14,17,19,20",
+        "carteVerification": "758,646,322,618,315,516"
+    },
+    "#B65B1N1": {
+        "carteCritere": "5,15,16,19,21,22",
+        "carteVerification": "252,406,374,770,523,536"
+    },
+    "#B64ZDG9": {
+        "carteCritere": "3,10,12,19,21,22",
+        "carteVerification": "631,639,319,770,523,536"
+    },
+    "#B63Y5QV": {
+        "carteCritere": "2,5,9,12,17,21",
+        "carteVerification": "585,247,362,316,482,518"
+    },
+    "#B630EGD": {
+        "carteCritere": "1,6,14,18,19,22",
+        "carteVerification": "530,490,418,781,770,536"
+    },
+    "#B64BTV8": {
+        "carteCritere": "3,5,12,17,21,22",
+        "carteVerification": "346,578,695,618,497,485"
+    },
+    "#B63Z92W": {
+        "carteCritere": "2,7,8,19,21,22",
+        "carteVerification": "434,654,356,751,497,485"
+    },
+    "#B64C5ER": {
+        "carteCritere": "3,7,9,14,17,20",
+        "carteVerification": "662,352,362,414,482,498"
+    },
+    "#B63YIT7": {
+        "carteCritere": "2,7,8,14,16,20",
+        "carteVerification": "585,610,790,718,372,498"
+    },
+    "#B65FPBW": {
+        "carteCritere": "7,9,13,16,19,21",
+        "carteVerification": "654,646,632,503,315,339"
+    },
+    "#B653TQZ": {
+        "carteCritere": "4,9,13,16,19,20",
+        "carteVerification": "335,362,202,372,255,498"
+    },
+    "#B65BK69": {
+        "carteCritere": "6,9,14,18,19,22",
+        "carteVerification": "543,369,694,424,699,536"
+    },
+    "#B64RDW4": {
+        "carteCritere": "2,8,12,18,19,21",
+        "carteVerification": "778,206,614,220,233,497"
+    },
+    "#B65BJPG": {
+        "carteCritere": "6,9,14,18,19,21",
+        "carteVerification": "481,646,322,592,315,497"
+    },
+    "#B65G4HI": {
+        "carteCritere": "7,13,18,19,21,22",
+        "carteVerification": "657,797,594,237,499,487"
+    },
+    "#B63BQO4": {
+        "carteCritere": "4,7,10,18,19,20",
+        "carteVerification": "688,403,381,220,315,516"
+    },
+    "#B64XHNT": {
+        "carteCritere": "3,5,15,17,19,21",
+        "carteVerification": "631,252,406,395,770,523"
+    },
+    "#B630KCA": {
+        "carteCritere": "1,10,17,19,20,22",
+        "carteVerification": "495,385,541,237,520,487"
+    },
+    "#B632GKU": {
+        "carteCritere": "2,7,18,19,21,22",
+        "carteVerification": "416,657,223,317,499,487"
+    },
+    "#B65H5GE": {
+        "carteCritere": "10,14,16,19,21,22",
+        "carteVerification": "385,598,505,317,499,487"
+    },
+    "#B65AV4O": {
+        "carteCritere": "5,9,13,17,21,22",
+        "carteVerification": "758,782,632,618,497,485"
+    },
+    "#B632KG9": {
+        "carteCritere": "2,10,15,16,20,22",
+        "carteVerification": "599,635,406,515,502,536"
+    },
+    "#B65AVW4": {
+        "carteCritere": "5,9,11,16,19,22",
+        "carteVerification": "758,782,723,503,315,485"
+    },
+    "#B65AVK4": {
+        "carteCritere": "5,9,12,17,19,22",
+        "carteVerification": "758,782,695,537,315,485"
+    },
+    "#B65C8VX": {
+        "carteCritere": "7,8,15,17,20,22",
+        "carteVerification": "613,793,349,395,502,536"
+    },
+    "#B65BHD4": {
+        "carteCritere": "6,8,17,19,20,22",
+        "carteVerification": "481,356,618,233,516,485"
+    },
+    "#B63TUBE": {
+        "carteCritere": "1,9,15,16,19,20",
+        "carteVerification": "652,648,611,643,237,520"
+    },
+    "#B65BK66": {
+        "carteCritere": "6,9,14,18,19,20",
+        "carteVerification": "483,648,325,594,317,520"
+    },
+    "#B64CHB5": {
+        "carteCritere": "3,9,16,19,20,22",
+        "carteVerification": "664,369,374,257,502,536"
+    },
+    "#B65BU1N": {
+        "carteCritere": "6,10,13,16,19,20",
+        "carteVerification": "540,633,202,509,696,498"
+    },
+    "#B65BVKA": {
+        "carteCritere": "6,13,16,19,21,22",
+        "carteVerification": "483,797,643,237,499,487"
+    },
+    "#B65GBFI": {
+        "carteCritere": "8,11,16,18,19,21",
+        "carteVerification": "212,739,505,594,317,341"
+    },
+    "#B64Z0S8": {
+        "carteCritere": "3,7,12,17,20,22",
+        "carteVerification": "387,654,695,618,516,485"
+    },
+    "#B65CMPN": {
+        "carteCritere": "7,10,16,19,21,22",
+        "carteVerification": "610,633,509,767,518,533"
+    },
+    "#B63AUZ1": {
+        "carteCritere": "4,5,12,17,21,22",
+        "carteVerification": "577,445,319,395,523,536"
+    },
+    "#B65F31K": {
+        "carteCritere": "6,10,14,17,19,20",
+        "carteVerification": "532,381,596,537,315,516"
+    },
+    "#B65FRAJ": {
+        "carteCritere": "7,9,13,16,19,20",
+        "carteVerification": "352,362,382,509,696,268"
+    },
+    "#B64RMO0": {
+        "carteCritere": "2,9,12,17,19,22",
+        "carteVerification": "778,782,614,525,233,485"
+    },
+    "#B63BVUO": {
+        "carteCritere": "4,10,12,16,19,20",
+        "carteVerification": "688,381,614,503,315,516"
+    },
+    "#B65GBLS": {
+        "carteCritere": "8,11,16,18,19,20",
+        "carteVerification": "206,737,503,592,315,741"
+    },
+    "#B63271K": {
+        "carteCritere": "2,6,8,16,20,22",
+        "carteVerification": "413,481,206,503,516,485"
+    },
+    "#B632KEU": {
+        "carteCritere": "2,10,13,18,21,22",
+        "carteVerification": "416,385,797,223,499,487"
+    },
+    "#B64B6EA": {
+        "carteCritere": "3,6,9,11,14,18",
+        "carteVerification": "348,483,648,739,325,594"
+    },
+    "#B64YGO8": {
+        "carteCritere": "3,5,10,12,17,20",
+        "carteVerification": "387,578,381,614,537,516"
+    },
+    "#B64BRAY": {
+        "carteCritere": "3,5,9,16,19,20",
+        "carteVerification": "348,580,648,505,317,520"
+    },
+    "#B64QJ5Q": {
+        "carteCritere": "2,5,9,14,18,22",
+        "carteVerification": "780,580,785,598,594,487"
+    },
+    "#B64AXM2": {
+        "carteCritere": "3,5,10,12,16,19",
+        "carteVerification": "348,763,385,697,643,317"
+    },
+    "#B630ENE": {
+        "carteCritere": "1,6,14,17,19,22",
+        "carteVerification": "495,534,598,541,237,487"
+    },
+    "#B65GV89": {
+        "carteCritere": "9,13,16,19,20,22",
+        "carteVerification": "369,386,374,257,502,536"
+    },
+    "#B630CZJ": {
+        "carteCritere": "1,7,10,16,21,22",
+        "carteVerification": "527,610,633,509,518,533"
+    },
+    "#B632DY4": {
+        "carteCritere": "2,7,8,13,21,22",
+        "carteVerification": "413,654,206,795,497,485"
+    },
+    "#B65ASFJ": {
+        "carteCritere": "5,9,12,16,19,20",
+        "carteVerification": "247,362,399,372,767,498"
+    },
+    "#B63B037": {
+        "carteCritere": "4,7,12,18,20,22",
+        "carteVerification": "573,352,399,421,498,533"
+    },
+    "#B65BTSN": {
+        "carteCritere": "6,10,11,19,20,22",
+        "carteVerification": "540,633,287,696,498,533"
+    },
+    "#B63ZOEB": {
+        "carteCritere": "2,10,17,19,21,22",
+        "carteVerification": "585,637,482,696,518,533"
+    },
+    "#B64PS3J": {
+        "carteCritere": "2,5,9,11,16,20",
+        "carteVerification": "221,247,362,458,509,268"
+    },
+    "#B63U5CQ": {
+        "carteCritere": "1,13,16,18,19,20",
+        "carteVerification": "652,797,505,594,237,743"
+    },
+    "#B65BS61": {
+        "carteCritere": "6,10,13,18,19,22",
+        "carteVerification": "543,635,205,781,699,536"
+    },
+    "#B638ALW": {
+        "carteCritere": "3,7,9,18,19,22",
+        "carteVerification": "462,654,782,592,315,485"
+    },
+    "#B65B22A": {
+        "carteCritere": "5,12,16,19,20,22",
+        "carteVerification": "763,616,643,237,520,487"
+    },
+    "#B65GSTX": {
+        "carteCritere": "9,13,16,19,21,22",
+        "carteVerification": "369,205,374,257,523,536"
+    },
+    "#B65B1Z1": {
+        "carteCritere": "5,14,17,19,20,22",
+        "carteVerification": "252,694,395,699,502,536"
+    },
+    "#B65CMOB": {
+        "carteCritere": "7,10,12,17,19,21",
+        "carteVerification": "610,633,316,482,696,518"
+    },
+    "#B630EGC": {
+        "carteCritere": "1,6,11,18,19,22",
+        "carteVerification": "491,532,566,220,233,485"
+    },
+    "#B63B34T": {
+        "carteCritere": "4,9,14,18,19,22",
+        "carteVerification": "577,369,694,424,699,536"
+    },
+    "#B6328DB": {
+        "carteCritere": "2,6,17,19,20,22",
+        "carteVerification": "597,540,482,767,498,533"
+    },
+    "#B653B7H": {
+        "carteCritere": "4,7,9,14,18,19",
+        "carteVerification": "338,355,219,694,781,699"
+    },
+    "#B652G7X": {
+        "carteCritere": "4,5,9,13,19,20",
+        "carteVerification": "338,445,369,232,770,273"
+    },
+    "#B63RR9B": {
+        "carteCritere": "1,6,9,15,18,19",
+        "carteVerification": "357,540,362,404,421,767"
+    },
+    "#B65CKGH": {
+        "carteCritere": "7,9,13,16,20,22",
+        "carteVerification": "613,219,205,374,502,536"
+    },
+    "#B6527LP": {
+        "carteCritere": "4,5,8,12,18,21",
+        "carteVerification": "338,445,793,402,781,523"
+    },
+    "#B65BSD3": {
+        "carteCritere": "6,10,14,18,19,22",
+        "carteVerification": "540,633,690,421,696,533"
+    },
+    "#B63ZMW1": {
+        "carteCritere": "2,9,14,16,20,22",
+        "carteVerification": "587,369,694,515,502,536"
+    },
+    "#B65C98A": {
+        "carteCritere": "7,8,15,16,20,22",
+        "carteVerification": "405,212,663,643,520,487"
+    },
+    "#B63B44W": {
+        "carteCritere": "4,13,18,19,21,22",
+        "carteVerification": "447,632,220,315,497,485"
+    },
+    "#B653EVC": {
+        "carteCritere": "4,7,10,15,19,20",
+        "carteVerification": "670,654,381,661,315,516"
+    },
+    "#B65AW2Q": {
+        "carteCritere": "5,9,13,16,19,22",
+        "carteVerification": "763,785,634,643,317,487"
+    },
+    "#B63YEY4": {
+        "carteCritere": "2,6,10,14,17,19",
+        "carteVerification": "434,481,381,322,618,315"
+    },
+    "#B63Z6GV": {
+        "carteCritere": "2,6,16,19,20,22",
+        "carteVerification": "585,486,372,696,498,533"
+    },
+    "#B630EIS": {
+        "carteCritere": "1,6,14,18,19,21",
+        "carteVerification": "491,532,596,592,233,497"
+    },
+    "#B630K95": {
+        "carteCritere": "1,10,14,17,19,22",
+        "carteVerification": "530,639,418,484,770,536"
+    },
+    "#B65BRSD": {
+        "carteCritere": "6,10,18,19,21,22",
+        "carteVerification": "543,635,781,699,523,536"
+    },
+    "#B65BVKI": {
+        "carteCritere": "6,14,16,19,21,22",
+        "carteVerification": "483,325,643,317,499,487"
+    },
+    "#B63YA0O": {
+        "carteCritere": "2,5,12,19,21,22",
+        "carteVerification": "434,758,695,751,497,485"
+    },
+    "#B65GPBE": {
+        "carteCritere": "9,11,15,16,18,19",
+        "carteVerification": "648,739,611,643,594,237"
+    },
+    "#B65B1LY": {
+        "carteCritere": "5,12,16,19,21,22",
+        "carteVerification": "763,697,643,317,499,487"
+    },
+    "#B64AYFG": {
+        "carteCritere": "3,5,14,16,19,20",
+        "carteVerification": "346,758,322,640,315,516"
+    },
+    "#B64RPPA": {
+        "carteCritere": "2,12,16,18,19,22",
+        "carteVerification": "780,616,643,594,755,487"
+    },
+    "#B64QZ56": {
+        "carteCritere": "2,6,11,16,21,22",
+        "carteVerification": "780,534,568,643,499,487"
+    },
+    "#B65BK61": {
+        "carteCritere": "6,9,15,18,19,20",
+        "carteVerification": "543,369,406,424,770,502"
+    },
+    "#B64RM21": {
+        "carteCritere": "2,9,16,18,19,21",
+        "carteVerification": "224,219,515,424,770,523"
+    },
+    "#B64CIM7": {
+        "carteCritere": "3,10,12,16,19,21",
+        "carteVerification": "662,637,754,509,696,667"
+    },
+    "#B63BVUJ": {
+        "carteCritere": "4,10,14,17,19,20",
+        "carteVerification": "324,633,414,482,696,498"
+    },
+    "#B632KEV": {
+        "carteCritere": "2,10,15,18,21,22",
+        "carteVerification": "597,633,404,779,518,533"
+    },
+    "#B6326XR": {
+        "carteCritere": "2,6,8,17,19,21",
+        "carteVerification": "597,540,790,482,696,518"
+    },
+    "#B632KF4": {
+        "carteCritere": "2,10,13,18,20,22",
+        "carteVerification": "413,381,795,220,516,485"
+    },
+    "#B653Z2S": {
+        "carteCritere": "4,12,16,18,21,22",
+        "carteVerification": "670,614,503,592,497,485"
+    },
+    "#B65B1YM": {
+        "carteCritere": "5,12,17,19,20,22",
+        "carteVerification": "763,616,625,237,520,487"
+    },
+    "#B65CAIG": {
+        "carteCritere": "7,8,11,17,20,22",
+        "carteVerification": "403,356,566,618,516,485"
+    },
+    "#B63ZBKX": {
+        "carteCritere": "2,7,9,13,17,21",
+        "carteVerification": "587,355,369,205,395,523"
+    },
+    "#B64Q300": {
+        "carteCritere": "2,6,15,17,19,21",
+        "carteVerification": "778,481,609,618,233,497"
+    },
+    "#B65BN8W": {
+        "carteCritere": "6,9,15,16,19,20",
+        "carteVerification": "481,646,609,640,233,516"
+    },
+    "#B63ZO23": {
+        "carteCritere": "2,10,18,19,21,22",
+        "carteVerification": "585,637,421,696,518,533"
+    },
+    "#B638CK8": {
+        "carteCritere": "3,7,12,17,19,22",
+        "carteVerification": "462,654,695,537,315,485"
+    },
+    "#B65BT2J": {
+        "carteCritere": "6,10,13,16,19,21",
+        "carteVerification": "540,633,202,509,696,518"
+    },
+    "#B65AY5U": {
+        "carteCritere": "5,10,12,14,18,19",
+        "carteVerification": "763,385,616,296,223,237"
+    },
+    "#B65AVPH": {
+        "carteCritere": "5,9,11,17,20,22",
+        "carteVerification": "252,219,461,395,502,536"
+    },
+    "#B64QT78": {
+        "carteCritere": "2,6,9,15,16,21",
+        "carteVerification": "778,532,646,329,640,339"
+    },
+    "#B63AOF4": {
+        "carteCritere": "4,7,9,17,19,22",
+        "carteVerification": "447,403,646,618,315,485"
+    },
+    "#B64BCO2": {
+        "carteCritere": "3,6,16,19,20,22",
+        "carteVerification": "348,483,505,317,520,487"
+    },
+    "#B63TPFG": {
+        "carteCritere": "1,9,15,18,19,20",
+        "carteVerification": "650,646,609,592,233,516"
+    },
+    "#B65AVPM": {
+        "carteCritere": "5,9,13,17,20,22",
+        "carteVerification": "763,785,634,625,520,487"
+    },
+    "#B63YE8L": {
+        "carteCritere": "2,6,9,12,19,22",
+        "carteVerification": "587,543,369,319,257,536"
+    },
+    "#B64BBUG": {
+        "carteCritere": "3,6,17,19,21,22",
+        "carteVerification": "346,481,618,315,497,485"
+    },
+    "#B65BH3V": {
+        "carteCritere": "6,8,18,19,20,22",
+        "carteVerification": "540,651,421,767,498,533"
+    },
+    "#B65GP1R": {
+        "carteCritere": "9,15,16,18,19,21",
+        "carteVerification": "362,404,372,421,767,667"
+    },
+    "#B63B0C1": {
+        "carteCritere": "4,7,12,16,21,22",
+        "carteVerification": "577,355,402,374,523,536"
+    },
+    "#B63ZO21": {
+        "carteCritere": "2,10,12,18,21,22",
+        "carteVerification": "587,639,319,424,523,536"
+    },
+    "#B65BGJP": {
+        "carteCritere": "6,8,16,19,20,22",
+        "carteVerification": "543,793,515,699,502,536"
+    },
+    "#B65BUAS": {
+        "carteCritere": "6,11,18,19,20,22",
+        "carteVerification": "481,566,220,315,516,485"
+    },
+    "#B65CHWB": {
+        "carteCritere": "7,9,18,19,21,22",
+        "carteVerification": "610,216,421,696,518,533"
+    },
+    "#B65CAIY": {
+        "carteCritere": "7,8,11,16,20,22",
+        "carteVerification": "405,358,568,643,520,487"
+    },
+    "#B65FU2A": {
+        "carteCritere": "7,9,15,18,20,22",
+        "carteVerification": "657,785,611,594,520,487"
+    },
+    "#B6328B0": {
+        "carteCritere": "2,6,13,17,21,22",
+        "carteVerification": "413,481,795,537,497,485"
+    },
+    "#B652IXS": {
+        "carteCritere": "4,5,9,17,19,22",
+        "carteVerification": "670,578,782,537,315,280"
+    },
+    "#B63YPTP": {
+        "carteCritere": "2,5,8,14,18,21",
+        "carteVerification": "587,445,793,694,424,523"
+    },
+    "#B65H5R7": {
+        "carteCritere": "10,14,16,19,20,22",
+        "carteVerification": "633,414,509,696,498,533"
+    },
+    "#B65DEO3": {
+        "carteCritere": "5,8,11,18,19,21",
+        "carteVerification": "441,651,287,421,767,518"
+    },
+    "#B65BUAT": {
+        "carteCritere": "6,11,18,19,20,22",
+        "carteVerification": "543,461,781,770,502,536"
+    },
+    "#B638B7M": {
+        "carteCritere": "3,7,9,12,17,19",
+        "carteVerification": "464,657,785,697,541,317"
+    },
+    "#B64AXT1": {
+        "carteCritere": "3,5,14,18,19,20",
+        "carteVerification": "664,252,694,424,699,502"
+    },
+    "#B64QT45": {
+        "carteCritere": "2,6,9,17,19,21",
+        "carteVerification": "224,490,369,395,770,669"
+    },
+    "#B63YT83": {
+        "carteCritere": "2,5,13,16,19,20",
+        "carteVerification": "585,441,228,509,696,268"
+    },
+    "#B63YF8R": {
+        "carteCritere": "2,6,18,19,21,22",
+        "carteVerification": "585,540,421,696,518,533"
+    },
+    "#B64ZCDH": {
+        "carteCritere": "3,10,13,18,19,21",
+        "carteVerification": "631,639,205,424,770,523"
+    },
+    "#B63TOU2": {
+        "carteCritere": "1,9,11,15,18,19",
+        "carteVerification": "652,648,739,611,594,237"
+    },
+    "#B65H5D0": {
+        "carteCritere": "10,11,17,19,21,22",
+        "carteVerification": "381,566,537,233,497,485"
+    },
+    "#B65BUB2": {
+        "carteCritere": "6,13,18,19,20,22",
+        "carteVerification": "483,797,223,317,520,487"
+    },
+    "#B6532Q1": {
+        "carteCritere": "4,7,8,15,19,21",
+        "carteVerification": "338,355,793,349,699,523"
+    },
+    "#B63ZET9": {
+        "carteCritere": "2,7,10,14,17,20",
+        "carteVerification": "587,355,639,720,484,502"
+    },
+    "#B65GPMF": {
+        "carteCritere": "9,13,16,18,19,22",
+        "carteVerification": "362,382,372,421,255,533"
+    },
+    "#B63TQR4": {
+        "carteCritere": "1,9,15,16,19,21",
+        "carteVerification": "650,646,609,640,233,497"
+    },
+    "#B64Y1L4": {
+        "carteCritere": "3,7,10,16,19,20",
+        "carteVerification": "387,403,381,503,233,516"
+    },
+    "#B64XQ4Y": {
+        "carteCritere": "3,6,9,15,18,20",
+        "carteVerification": "390,483,648,663,594,743"
+    },
+    "#B65BVSE": {
+        "carteCritere": "6,11,17,19,20,22",
+        "carteVerification": "483,726,541,317,520,487"
+    },
+    "#B64RKD6": {
+        "carteCritere": "2,9,15,17,20,22",
+        "carteVerification": "780,648,611,541,520,487"
+    },
+    "#B65AVX3": {
+        "carteCritere": "5,9,12,16,20,22",
+        "carteVerification": "247,216,316,372,498,533"
+    },
+    "#B6328CK": {
+        "carteCritere": "2,6,11,17,20,22",
+        "carteVerification": "413,481,723,537,516,485"
+    },
+    "#B63RWML": {
+        "carteCritere": "1,6,15,18,19,21",
+        "carteVerification": "359,543,406,781,770,523"
+    },
+    "#B65GIWF": {
+        "carteCritere": "8,11,18,19,20,22",
+        "carteVerification": "651,287,421,255,498,533"
+    },
+    "#B65BT2M": {
+        "carteCritere": "6,10,15,19,21,22",
+        "carteVerification": "483,385,611,237,499,487"
+    },
+    "#B65FCUV": {
+        "carteCritere": "7,8,11,16,19,20",
+        "carteVerification": "352,790,277,509,696,268"
+    },
+    "#B63AMGW": {
+        "carteCritere": "4,5,9,14,17,19",
+        "carteVerification": "447,758,646,322,618,315"
+    },
+    "#B64B9J1": {
+        "carteCritere": "3,6,9,19,20,22",
+        "carteVerification": "664,543,369,257,502,536"
+    },
+    "#B64Q311": {
+        "carteCritere": "2,6,15,16,19,21",
+        "carteVerification": "224,543,406,374,770,523"
+    },
+    "#B65BU9E": {
+        "carteCritere": "6,13,18,19,21,22",
+        "carteVerification": "483,634,223,317,499,487"
+    },
+    "#B64REIG": {
+        "carteCritere": "2,8,15,16,19,21",
+        "carteVerification": "778,206,609,640,233,497"
+    },
+    "#B64C9A9": {
+        "carteCritere": "3,7,14,18,19,21",
+        "carteVerification": "664,355,694,424,699,523"
+    },
+    "#B64RBFH": {
+        "carteCritere": "2,7,12,16,19,22",
+        "carteVerification": "224,355,402,374,257,536"
+    },
+    "#B64C844": {
+        "carteCritere": "3,7,10,14,17,21",
+        "carteVerification": "346,654,376,596,537,497"
+    },
+    "#B64RPK6": {
+        "carteCritere": "2,16,18,19,21,22",
+        "carteVerification": "780,505,594,237,499,487"
+    },
+    "#B63283T": {
+        "carteCritere": "2,6,10,18,21,22",
+        "carteVerification": "599,543,635,781,523,536"
+    },
+    "#B65DQMJ": {
+        "carteCritere": "5,9,11,18,19,21",
+        "carteVerification": "441,216,458,421,767,518"
+    },
+    "#B64R2SJ": {
+        "carteCritere": "2,7,8,13,16,19",
+        "carteVerification": "221,352,651,382,509,255"
+    },
+    "#B63Y6WJ": {
+        "carteCritere": "2,5,9,11,17,20",
+        "carteVerification": "585,247,362,287,393,268"
+    },
+    "#B6536LU": {
+        "carteCritere": "4,7,9,12,14,18",
+        "carteVerification": "677,657,648,256,296,223"
+    },
+    "#B63ZO0E": {
+        "carteCritere": "2,9,12,16,19,22",
+        "carteVerification": "437,785,697,643,317,487"
+    },
+    "#B64AXYL": {
+        "carteCritere": "3,5,14,17,19,21",
+        "carteVerification": "664,252,694,395,699,523"
+    },
+    "#B64Q98O": {
+        "carteCritere": "2,7,10,13,18,20",
+        "carteVerification": "778,403,381,632,220,516"
+    },
+    "#B630KE2": {
+        "carteCritere": "1,16,18,19,21,22",
+        "carteVerification": "495,505,594,237,499,487"
+    },
+    "#B64Q2NV": {
+        "carteCritere": "2,6,18,19,21,22",
+        "carteVerification": "221,540,421,767,518,533"
+    },
+    "#B65BK65": {
+        "carteCritere": "6,9,14,18,19,20",
+        "carteVerification": "543,369,694,424,699,273"
+    },
+    "#B653RIN": {
+        "carteCritere": "4,9,12,16,19,21",
+        "carteVerification": "335,362,316,372,255,518"
+    },
+    "#B63Z5YN": {
+        "carteCritere": "2,6,16,19,21,22",
+        "carteVerification": "585,486,372,696,518,533"
+    },
+    "#B65AZTI": {
+        "carteCritere": "5,10,15,17,19,22",
+        "carteVerification": "763,385,611,625,237,487"
+    },
+    "#B651B7I": {
+        "carteCritere": "4,6,8,16,19,20",
+        "carteVerification": "677,483,358,643,237,520"
+    },
+    "#B63ALKY": {
+        "carteCritere": "4,5,8,11,21,22",
+        "carteVerification": "453,763,212,568,499,487"
+    },
+    "#B65GPEC": {
+        "carteCritere": "9,11,16,18,19,22",
+        "carteVerification": "646,723,640,592,751,485"
+    },
+    "#B63Z0T0": {
+        "carteCritere": "2,6,9,13,16,21",
+        "carteVerification": "434,532,646,795,640,339"
+    },
+    "#B653PHB": {
+        "carteCritere": "4,9,14,16,18,20",
+        "carteVerification": "335,362,718,509,779,268"
+    },
+    "#B630JD8": {
+        "carteCritere": "1,10,14,18,19,22",
+        "carteVerification": "491,376,596,220,233,485"
+    },
+    "#B63RXM3": {
+        "carteCritere": "1,6,13,16,21,22",
+        "carteVerification": "357,540,382,509,518,533"
+    },
+    "#B63ZGNI": {
+        "carteCritere": "2,7,12,16,19,22",
+        "carteVerification": "437,657,697,643,755,487"
+    },
+    "#B63S9AL": {
+        "carteCritere": "1,7,10,14,16,22",
+        "carteVerification": "359,613,635,418,374,536"
+    },
+    "#B63ATTK": {
+        "carteCritere": "4,5,9,12,20,22",
+        "carteVerification": "447,578,782,614,516,485"
+    },
+    "#B65GPRG": {
+        "carteCritere": "9,15,16,18,19,20",
+        "carteVerification": "646,609,640,592,233,741"
+    },
+    "#B65DESW": {
+        "carteCritere": "5,8,14,18,19,20",
+        "carteVerification": "578,356,293,592,233,516"
+    },
+    "#B6384ME": {
+        "carteCritere": "3,7,9,13,16,22",
+        "carteVerification": "464,405,785,797,505,487"
+    },
+    "#B63RXJQ": {
+        "carteCritere": "1,6,13,17,19,21",
+        "carteVerification": "652,483,797,541,237,499"
+    },
+    "#B63ZK4Y": {
+        "carteCritere": "2,9,13,15,16,18",
+        "carteVerification": "437,648,775,663,505,223"
+    },
+    "#B653J4O": {
+        "carteCritere": "4,8,13,16,18,20",
+        "carteVerification": "670,206,771,503,592,741"
+    },
+    "#B65AY43": {
+        "carteCritere": "5,10,11,15,18,19",
+        "carteVerification": "247,633,287,404,779,767"
+    },
+    "#B65GOY9": {
+        "carteCritere": "9,15,18,19,21,22",
+        "carteVerification": "369,406,424,770,523,536"
+    },
+    "#B65C834": {
+        "carteCritere": "7,8,14,16,21,22",
+        "carteVerification": "403,206,596,640,497,485"
+    },
+    "#B632E90": {
+        "carteCritere": "2,7,8,11,20,22",
+        "carteVerification": "413,654,356,723,516,485"
+    },
+    "#B63AZ9X": {
+        "carteCritere": "4,7,9,12,20,22",
+        "carteVerification": "577,355,219,319,502,536"
+    },
+    "#B65B1L0": {
+        "carteCritere": "5,14,17,19,21,22",
+        "carteVerification": "758,322,618,315,497,485"
+    },
+    "#B64ZFN4": {
+        "carteCritere": "3,12,16,19,20,22",
+        "carteVerification": "387,695,640,751,516,485"
+    },
+    "#B6326WY": {
+        "carteCritere": "2,6,8,11,18,22",
+        "carteVerification": "416,483,212,568,223,487"
+    },
+    "#B653Q3T": {
+        "carteCritere": "4,9,11,15,16,18",
+        "carteVerification": "338,369,279,406,374,424"
+    },
+    "#B65H5PL": {
+        "carteCritere": "10,11,16,19,20,22",
+        "carteVerification": "635,461,515,770,502,536"
+    },
+    "#B64PV3C": {
+        "carteCritere": "2,5,12,19,21,22",
+        "carteVerification": "778,758,614,751,497,485"
+    },
+    "#B64CIQL": {
+        "carteCritere": "3,10,12,18,19,22",
+        "carteVerification": "664,635,402,424,257,536"
+    },
+    "#B63Y3SG": {
+        "carteCritere": "2,5,8,14,18,22",
+        "carteVerification": "434,758,356,322,592,485"
+    },
+    "#B64QI6G": {
+        "carteCritere": "2,5,9,13,16,20",
+        "carteVerification": "778,578,646,771,503,741"
+    },
+    "#B64YZHO": {
+        "carteCritere": "3,7,12,18,19,21",
+        "carteVerification": "387,654,253,592,233,339"
+    },
+    "#B63ZKCI": {
+        "carteCritere": "2,9,11,16,18,21",
+        "carteVerification": "437,648,739,505,594,341"
+    },
+    "#B65AVPR": {
+        "carteCritere": "5,9,13,17,19,22",
+        "carteVerification": "247,216,382,393,696,533"
+    },
+    "#B63ATUP": {
+        "carteCritere": "4,5,9,14,20,22",
+        "carteVerification": "577,445,219,418,502,536"
+    },
+    "#B65BU2A": {
+        "carteCritere": "6,10,15,19,20,22",
+        "carteVerification": "483,385,611,237,520,487"
+    },
+    "#B65DSLB": {
+        "carteCritere": "5,10,15,18,21,22",
+        "carteVerification": "441,637,404,779,518,533"
+    },
+    "#B65G2YJ": {
+        "carteCritere": "7,10,14,16,21,22",
+        "carteVerification": "352,633,414,509,518,533"
+    },
+    "#B64R5QA": {
+        "carteCritere": "2,7,9,15,17,22",
+        "carteVerification": "780,657,648,611,541,487"
+    },
+    "#B63AOQU": {
+        "carteCritere": "4,7,13,19,21,22",
+        "carteVerification": "453,405,634,317,499,487"
+    },
+    "#B63AOUM": {
+        "carteCritere": "4,7,13,17,19,22",
+        "carteVerification": "453,405,634,625,317,487"
+    },
+    "#B65AZUC": {
+        "carteCritere": "5,10,14,17,19,22",
+        "carteVerification": "758,381,322,618,315,485"
+    },
+    "#B65BN7R": {
+        "carteCritere": "6,9,13,16,19,20",
+        "carteVerification": "540,362,202,372,767,498"
+    },
+    "#B632KFP": {
+        "carteCritere": "2,10,15,16,21,22",
+        "carteVerification": "599,635,406,515,523,536"
+    },
+    "#B64Z70Y": {
+        "carteCritere": "3,9,13,16,18,19",
+        "carteVerification": "390,648,775,643,594,237"
+    },
+    "#B632K5Q": {
+        "carteCritere": "2,10,14,18,20,22",
+        "carteVerification": "416,378,325,223,520,487"
+    },
+    "#B63T9IP": {
+        "carteCritere": "1,7,9,11,15,19",
+        "carteVerification": "359,355,369,279,406,770"
+    },
+    "#B63BVU1": {
+        "carteCritere": "4,10,14,17,19,21",
+        "carteVerification": "327,635,418,484,699,523"
+    },
+    "#B63Z5XU": {
+        "carteCritere": "2,6,11,16,21,22",
+        "carteVerification": "437,534,726,643,499,487"
+    },
+    "#B6327GI": {
+        "carteCritere": "2,6,9,18,19,22",
+        "carteVerification": "416,483,785,223,317,487"
+    },
+    "#B630D7Q": {
+        "carteCritere": "1,7,16,19,21,22",
+        "carteVerification": "495,405,505,237,499,487"
+    },
+    "#B65AV52": {
+        "carteCritere": "5,9,13,17,21,22",
+        "carteVerification": "763,785,797,625,499,487"
+    },
+    "#B65CJHT": {
+        "carteCritere": "7,9,11,16,21,22",
+        "carteVerification": "613,219,289,374,523,536"
+    },
+    "#B65AOM4": {
+        "carteCritere": "5,9,15,18,19,20",
+        "carteVerification": "758,646,609,592,233,741"
+    },
+    "#B63YQ1N": {
+        "carteCritere": "2,5,8,14,18,22",
+        "carteVerification": "585,441,790,690,421,533"
+    },
+    "#B6328BG": {
+        "carteCritere": "2,6,11,16,21,22",
+        "carteVerification": "413,481,723,503,497,485"
+    },
+    "#B632K5C": {
+        "carteCritere": "2,10,14,18,21,22",
+        "carteVerification": "413,376,322,220,497,485"
+    },
+    "#B632KFY": {
+        "carteCritere": "2,10,13,17,20,22",
+        "carteVerification": "416,385,797,541,520,487"
+    },
+    "#B64B9I0": {
+        "carteCritere": "3,6,9,12,20,22",
+        "carteVerification": "346,481,646,614,516,485"
+    },
+    "#B63TSZS": {
+        "carteCritere": "1,9,15,17,19,20",
+        "carteVerification": "650,646,609,618,233,516"
+    },
+    "#B64PSJB": {
+        "carteCritere": "2,5,9,12,16,20",
+        "carteVerification": "221,247,362,399,509,498"
+    },
+    "#B64RIE1": {
+        "carteCritere": "2,9,15,16,18,21",
+        "carteVerification": "224,369,406,374,424,669"
+    },
+    "#B632GLR": {
+        "carteCritere": "2,7,18,19,20,22",
+        "carteVerification": "597,352,779,767,498,533"
+    },
+    "#B64AXO1": {
+        "carteCritere": "3,5,10,14,16,19",
+        "carteVerification": "664,252,635,694,374,699"
+    },
+    "#B652TOF": {
+        "carteCritere": "4,6,8,18,19,21",
+        "carteVerification": "335,486,651,421,255,518"
+    },
+    "#B630EMM": {
+        "carteCritere": "1,6,17,19,21,22",
+        "carteVerification": "495,534,541,237,499,487"
+    },
+    "#B63BVU0": {
+        "carteCritere": "4,10,12,17,19,21",
+        "carteVerification": "688,381,614,537,315,497"
+    },
+    "#B65ASIQ": {
+        "carteCritere": "5,9,15,16,19,20",
+        "carteVerification": "763,648,611,643,237,520"
+    },
+    "#B65BVT4": {
+        "carteCritere": "6,15,17,19,20,22",
+        "carteVerification": "481,609,618,233,516,485"
+    },
+    "#B64BWCS": {
+        "carteCritere": "3,6,8,12,18,21",
+        "carteVerification": "346,532,206,695,592,339"
+    },
+    "#B63ZCWE": {
+        "carteCritere": "2,7,9,12,19,20",
+        "carteVerification": "437,657,648,697,755,520"
+    },
+    "#B632HKJ": {
+        "carteCritere": "2,8,15,18,21,22",
+        "carteVerification": "597,790,404,779,518,533"
+    },
+    "#B63ZKRT": {
+        "carteCritere": "2,9,16,18,19,22",
+        "carteVerification": "587,369,374,424,257,536"
+    },
+    "#B65BH2F": {
+        "carteCritere": "6,8,12,18,21,22",
+        "carteVerification": "540,651,399,421,518,533"
+    },
+    "#B65BLMK": {
+        "carteCritere": "6,9,14,16,19,21",
+        "carteVerification": "481,646,322,640,315,497"
+    },
+    "#B63BVTN": {
+        "carteCritere": "4,10,14,18,19,21",
+        "carteVerification": "324,633,414,779,696,518"
+    },
+    "#B65H453": {
+        "carteCritere": "10,15,18,19,20,22",
+        "carteVerification": "633,347,779,696,498,533"
+    },
+    "#B63YWXC": {
+        "carteCritere": "2,6,8,17,20,22",
+        "carteVerification": "434,532,206,618,516,485"
+    },
+    "#B65AW6J": {
+        "carteCritere": "5,9,14,19,20,22",
+        "carteVerification": "247,216,690,696,498,533"
+    },
+    "#B65GPRU": {
+        "carteCritere": "9,14,16,18,19,20",
+        "carteVerification": "648,325,643,594,317,743"
+    },
+    "#B65CMOC": {
+        "carteCritere": "7,10,13,17,19,21",
+        "carteVerification": "403,381,632,537,315,497"
+    },
+    "#B63ZP21": {
+        "carteCritere": "2,13,16,18,19,20",
+        "carteVerification": "587,232,515,424,699,273"
+    },
+    "#B63ZBVR": {
+        "carteCritere": "2,7,9,12,16,21",
+        "carteVerification": "585,352,362,316,372,667"
+    },
+    "#B64YE77": {
+        "carteCritere": "3,5,9,16,19,20",
+        "carteVerification": "629,441,362,372,767,268"
+    },
+    "#B65CJJH": {
+        "carteCritere": "7,9,11,19,21,22",
+        "carteVerification": "613,219,461,770,523,536"
+    },
+    "#B65BH9U": {
+        "carteCritere": "6,8,17,19,21,22",
+        "carteVerification": "483,358,625,237,499,487"
+    },
+    "#B632GLM": {
+        "carteCritere": "2,7,13,18,20,22",
+        "carteVerification": "416,657,634,223,520,487"
+    },
+    "#B63TQFI": {
+        "carteCritere": "1,9,15,17,19,21",
+        "carteVerification": "652,648,611,625,237,499"
+    },
+    "#B65BVJJ": {
+        "carteCritere": "6,11,16,19,21,22",
+        "carteVerification": "540,287,509,696,518,533"
+    },
+    "#B64C6J0": {
+        "carteCritere": "3,7,9,14,16,20",
+        "carteVerification": "346,654,646,596,503,516"
+    },
+    "#B63SLFV": {
+        "carteCritere": "1,5,10,15,18,19",
+        "carteVerification": "357,441,637,404,421,767"
+    },
+    "#B64RGKA": {
+        "carteCritere": "2,8,16,18,19,21",
+        "carteVerification": "780,358,505,594,237,499"
+    },
+    "#B64BRUJ": {
+        "carteCritere": "3,5,9,14,18,20",
+        "carteVerification": "662,441,216,414,421,498"
+    },
+    "#B64ZEJZ": {
+        "carteCritere": "3,12,16,18,19,22",
+        "carteVerification": "629,316,372,421,255,533"
+    },
+    "#B64CACM": {
+        "carteCritere": "3,7,12,16,19,22",
+        "carteVerification": "348,657,616,643,755,487"
+    },
+    "#B63TOUF": {
+        "carteCritere": "1,9,11,16,18,20",
+        "carteVerification": "357,362,277,509,421,268"
+    },
+    "#B65H5DB": {
+        "carteCritere": "10,15,17,19,21,22",
+        "carteVerification": "633,347,482,696,518,533"
+    },
+    "#B63YFAI": {
+        "carteCritere": "2,6,13,18,19,20",
+        "carteVerification": "437,483,634,594,317,520"
+    },
+    "#B653B82": {
+        "carteCritere": "4,7,9,18,19,22",
+        "carteVerification": "677,657,785,223,317,282"
+    },
+    "#B653NCD": {
+        "carteCritere": "4,8,12,17,20,22",
+        "carteVerification": "338,653,319,395,502,536"
+    },
+    "#B63YAGK": {
+        "carteCritere": "2,5,17,19,20,22",
+        "carteVerification": "434,758,618,315,516,485"
+    },
+    "#B63T2I9": {
+        "carteCritere": "1,6,10,14,17,20",
+        "carteVerification": "359,490,635,418,484,502"
+    },
+    "#B64XI2T": {
+        "carteCritere": "3,5,15,16,19,20",
+        "carteVerification": "631,252,406,374,770,502"
+    },
+    "#B6327GJ": {
+        "carteCritere": "2,6,9,18,19,22",
+        "carteVerification": "597,540,216,779,767,533"
+    },
+    "#B64XVZ3": {
+        "carteCritere": "3,6,12,19,20,22",
+        "carteVerification": "629,540,316,255,498,533"
+    },
+    "#B64BFTV": {
+        "carteCritere": "3,7,10,17,19,21",
+        "carteVerification": "662,610,633,482,696,518"
+    },
+    "#B65GIRS": {
+        "carteCritere": "8,16,18,19,21,22",
+        "carteVerification": "356,503,592,233,497,485"
+    },
+    "#B65CI3B": {
+        "carteCritere": "7,9,11,18,19,20",
+        "carteVerification": "610,216,458,421,767,498"
+    },
+    "#B65BTY6": {
+        "carteCritere": "6,10,13,16,19,22",
+        "carteVerification": "483,385,634,643,317,487"
+    },
+    "#B65EUN0": {
+        "carteCritere": "6,9,14,18,21,22",
+        "carteVerification": "532,782,596,592,497,485"
+    },
+    "#B630KC6": {
+        "carteCritere": "1,10,18,19,21,22",
+        "carteVerification": "495,385,223,237,499,487"
+    },
+    "#B63ZNWK": {
+        "carteCritere": "2,9,12,17,19,22",
+        "carteVerification": "434,782,695,525,315,485"
+    },
+    "#B64RA2W": {
+        "carteCritere": "2,7,13,18,19,20",
+        "carteVerification": "778,654,771,592,233,741"
+    },
+    "#B65CHZC": {
+        "carteCritere": "7,9,11,18,20,22",
+        "carteVerification": "403,782,723,592,516,485"
+    },
+    "#B64BSDS": {
+        "carteCritere": "3,5,10,14,17,21",
+        "carteVerification": "346,578,376,322,537,497"
+    },
+    "#B65CMOQ": {
+        "carteCritere": "7,10,12,16,19,21",
+        "carteVerification": "405,385,697,505,317,499"
+    },
+    "#B64RITN": {
+        "carteCritere": "2,9,15,16,18,20",
+        "carteVerification": "221,362,404,372,421,268"
+    },
+    "#B64Q657": {
+        "carteCritere": "2,7,8,14,18,22",
+        "carteVerification": "221,610,790,414,421,533"
+    },
+    "#B65H0GJ": {
+        "carteCritere": "10,12,18,19,21,22",
+        "carteVerification": "637,316,421,696,518,533"
+    },
+    "#B64BBUQ": {
+        "carteCritere": "3,6,16,19,21,22",
+        "carteVerification": "348,483,505,317,499,487"
+    },
+    "#B630CZL": {
+        "carteCritere": "1,7,10,19,21,22",
+        "carteVerification": "530,613,635,770,523,536"
+    },
+    "#B64Z6ZR": {
+        "carteCritere": "3,9,13,15,16,18",
+        "carteVerification": "629,362,228,347,372,421"
+    },
+    "#B64RQW3": {
+        "carteCritere": "2,12,16,19,20,22",
+        "carteVerification": "221,399,372,255,498,533"
+    },
+    "#B63S3X2": {
+        "carteCritere": "1,7,9,12,19,21",
+        "carteVerification": "652,405,648,616,237,499"
+    },
+    "#B63YF4H": {
+        "carteCritere": "2,6,10,14,16,19",
+        "carteVerification": "587,543,635,694,374,699"
+    },
+    "#B63283E": {
+        "carteCritere": "2,6,9,16,19,22",
+        "carteVerification": "416,483,785,505,317,487"
+    },
+    "#B6328BT": {
+        "carteCritere": "2,6,11,16,21,22",
+        "carteVerification": "599,543,461,515,523,536"
+    },
+    "#B64ZDVD": {
+        "carteCritere": "3,10,12,19,20,22",
+        "carteVerification": "631,639,319,770,502,536"
+    },
+    "#B64R6Y9": {
+        "carteCritere": "2,7,9,15,20,22",
+        "carteVerification": "224,355,369,406,502,536"
+    },
+    "#B63AYTE": {
+        "carteCritere": "4,7,9,14,19,22",
+        "carteVerification": "453,657,648,325,317,487"
+    },
+    "#B65AZPI": {
+        "carteCritere": "5,10,12,17,19,20",
+        "carteVerification": "763,385,616,541,317,520"
+    },
+    "#B63YE6E": {
+        "carteCritere": "2,6,9,13,17,22",
+        "carteVerification": "437,483,648,634,625,487"
+    },
+    "#B64CBZJ": {
+        "carteCritere": "3,8,12,16,18,20",
+        "carteVerification": "662,790,754,509,421,268"
+    },
+    "#B63AV22": {
+        "carteCritere": "4,5,12,16,20,22",
+        "carteVerification": "453,580,697,643,520,487"
+    },
+    "#B63TQFH": {
+        "carteCritere": "1,9,12,17,19,21",
+        "carteVerification": "359,369,402,395,770,523"
+    },
+    "#B65GUUT": {
+        "carteCritere": "9,11,16,19,20,22",
+        "carteVerification": "369,289,374,257,502,536"
+    },
+    "#B63RWSU": {
+        "carteCritere": "1,6,15,18,19,20",
+        "carteVerification": "652,483,611,223,237,520"
+    },
+    "#B65BHB0": {
+        "carteCritere": "6,8,12,16,21,22",
+        "carteVerification": "481,356,614,640,497,485"
+    },
+    "#B64C3X7": {
+        "carteCritere": "3,7,9,12,15,18",
+        "carteVerification": "662,352,362,754,684,779"
+    },
+    "#B65H456": {
+        "carteCritere": "10,14,18,19,20,22",
+        "carteVerification": "385,598,223,317,520,487"
+    },
+    "#B65GPBF": {
+        "carteCritere": "9,11,14,16,18,19",
+        "carteVerification": "362,277,690,372,421,696"
+    },
+    "#B63ZOJ5": {
+        "carteCritere": "2,10,12,18,19,22",
+        "carteVerification": "587,635,319,424,257,536"
+    },
+    "#B65GUO5": {
+        "carteCritere": "9,14,17,19,20,22",
+        "carteVerification": "369,694,395,699,502,536"
+    },
+    "#B64YD2S": {
+        "carteCritere": "3,5,9,17,19,22",
+        "carteVerification": "387,578,646,618,233,485"
+    },
+    "#B64YZHM": {
+        "carteCritere": "3,7,15,18,19,21",
+        "carteVerification": "390,657,611,594,237,499"
+    },
+    "#B638F2A": {
+        "carteCritere": "3,9,16,18,19,22",
+        "carteVerification": "464,785,505,594,237,487"
+    },
+    "#B63AUAS": {
+        "carteCritere": "4,5,10,12,16,22",
+        "carteVerification": "447,578,381,695,640,485"
+    },
+    "#B63BSS2": {
+        "carteCritere": "4,7,9,13,18,19",
+        "carteVerification": "691,657,648,634,594,317"
+    },
+    "#B65BO9Y": {
+        "carteCritere": "6,9,13,18,19,22",
+        "carteVerification": "483,785,634,223,317,487"
+    },
+    "#B63YEU0": {
+        "carteCritere": "2,6,10,19,21,22",
+        "carteVerification": "434,481,381,315,497,485"
+    },
+    "#B64Q9E8": {
+        "carteCritere": "2,7,10,18,20,22",
+        "carteVerification": "778,403,381,220,516,485"
+    },
+    "#B650XOQ": {
+        "carteCritere": "4,5,9,12,17,20",
+        "carteVerification": "677,763,785,616,625,520"
+    },
+    "#B63YF8J": {
+        "carteCritere": "2,6,13,18,19,21",
+        "carteVerification": "585,540,382,421,696,518"
+    },
+    "#B65CI5Y": {
+        "carteCritere": "7,9,18,19,20,22",
+        "carteVerification": "405,785,594,237,520,487"
+    },
+    "#B63ATRF": {
+        "carteCritere": "4,5,9,14,21,22",
+        "carteVerification": "573,441,216,414,518,533"
+    },
+    "#B63U5BH": {
+        "carteCritere": "1,13,16,18,20,22",
+        "carteVerification": "359,386,515,424,502,536"
+    },
+    "#B63Y82W": {
+        "carteCritere": "2,5,9,16,19,20",
+        "carteVerification": "434,758,646,503,315,516"
+    },
+    "#B65H647": {
+        "carteCritere": "12,16,18,19,21,22",
+        "carteVerification": "316,509,421,696,518,533"
+    },
+    "#B65ATJ8": {
+        "carteCritere": "5,9,12,18,19,22",
+        "carteVerification": "758,782,695,220,315,485"
+    },
+    "#B64PU60": {
+        "carteCritere": "2,5,10,17,19,22",
+        "carteVerification": "778,758,381,618,233,485"
+    },
+    "#B65AVO9": {
+        "carteCritere": "5,9,12,17,19,22",
+        "carteVerification": "252,219,319,395,699,536"
+    },
+    "#B63Y8ZO": {
+        "carteCritere": "2,5,10,17,19,22",
+        "carteVerification": "434,758,381,618,315,485"
+    },
+    "#B630D7M": {
+        "carteCritere": "1,7,18,19,20,22",
+        "carteVerification": "495,405,223,237,520,487"
+    },
+    "#B65AW5I": {
+        "carteCritere": "5,9,13,16,19,22",
+        "carteVerification": "763,785,797,643,237,487"
+    },
+    "#B65ATW8": {
+        "carteCritere": "5,9,12,18,20,22",
+        "carteVerification": "758,782,614,592,516,485"
+    },
+    "#B653GOW": {
+        "carteCritere": "4,7,12,16,19,22",
+        "carteVerification": "670,654,695,640,751,485"
+    },
+    "#B65FTNC": {
+        "carteCritere": "7,9,14,18,19,22",
+        "carteVerification": "654,782,596,220,315,485"
+    },
+    "#B64BUB8": {
+        "carteCritere": "3,5,12,16,20,22",
+        "carteVerification": "346,578,695,640,516,485"
+    },
+    "#B65FZPW": {
+        "carteCritere": "7,10,14,17,20,22",
+        "carteVerification": "654,376,596,537,516,485"
+    },
+    "#B632GI6": {
+        "carteCritere": "2,7,10,14,21,22",
+        "carteVerification": "416,657,378,325,499,487"
+    },
+    "#B63TF49": {
+        "carteCritere": "1,7,10,14,18,20",
+        "carteVerification": "359,355,635,418,781,502"
+    },
+    "#B64Q64I": {
+        "carteCritere": "2,7,8,12,18,19",
+        "carteVerification": "780,405,212,616,594,237"
+    },
+    "#B651W6K": {
+        "carteCritere": "4,7,9,17,20,22",
+        "carteVerification": "670,403,782,618,516,485"
+    },
+    "#B64Q0KP": {
+        "carteCritere": "2,6,9,18,19,22",
+        "carteVerification": "224,543,369,424,257,536"
+    },
+    "#B65BVVO": {
+        "carteCritere": "6,13,16,19,20,22",
+        "carteVerification": "481,795,503,315,516,485"
+    },
+    "#B653EGB": {
+        "carteCritere": "4,7,10,15,19,21",
+        "carteVerification": "335,352,633,347,696,518"
+    },
+    "#B64PPJY": {
+        "carteCritere": "2,5,8,16,19,21",
+        "carteVerification": "780,763,358,643,237,499"
+    },
+    "#B64BPW6": {
+        "carteCritere": "3,5,9,16,19,21",
+        "carteVerification": "348,580,648,643,317,341"
+    },
+    "#B64QJ4P": {
+        "carteCritere": "2,5,9,15,18,20",
+        "carteVerification": "224,445,219,406,424,502"
+    },
+    "#B65CHWC": {
+        "carteCritere": "7,9,18,19,21,22",
+        "carteVerification": "403,782,592,233,497,485"
+    },
+    "#B63YK0E": {
+        "carteCritere": "2,7,9,12,19,20",
+        "carteVerification": "437,405,648,256,317,743"
+    },
+    "#B65FQPN": {
+        "carteCritere": "7,9,12,19,20,22",
+        "carteVerification": "352,362,316,255,498,533"
+    },
+    "#B6328C7": {
+        "carteCritere": "2,6,16,19,21,22",
+        "carteVerification": "597,540,509,767,518,533"
+    },
+    "#B65H44S": {
+        "carteCritere": "10,11,18,19,20,22",
+        "carteVerification": "381,566,220,233,516,485"
+    },
+    "#B65GIQR": {
+        "carteCritere": "8,11,18,19,21,22",
+        "carteVerification": "651,287,421,255,518,533"
+    },
+    "#B64QRX1": {
+        "carteCritere": "2,6,9,11,18,20",
+        "carteVerification": "224,490,369,461,781,273"
+    },
+    "#B63AXN8": {
+        "carteCritere": "4,7,9,18,19,20",
+        "carteVerification": "447,654,646,220,315,741"
+    },
+    "#B63Z5B1": {
+        "carteCritere": "2,6,13,18,19,20",
+        "carteVerification": "587,490,232,424,699,273"
+    },
+    "#B64RL43": {
+        "carteCritere": "2,9,16,19,20,22",
+        "carteVerification": "221,362,509,767,498,533"
+    },
+    "#B65ALGO": {
+        "carteCritere": "5,8,14,18,20,22",
+        "carteVerification": "758,356,322,592,516,485"
+    },
+    "#B64B7SM": {
+        "carteCritere": "3,6,9,11,16,21",
+        "carteVerification": "348,483,648,568,505,341"
+    },
+    "#B64XHAY": {
+        "carteCritere": "3,5,15,18,19,20",
+        "carteVerification": "390,763,611,594,237,520"
+    },
+    "#B63288K": {
+        "carteCritere": "2,6,13,18,20,22",
+        "carteVerification": "413,481,795,220,516,485"
+    },
+    "#B64Q3GH": {
+        "carteCritere": "2,6,16,19,20,22",
+        "carteVerification": "224,543,374,770,502,536"
+    },
+    "#B638BN3": {
+        "carteCritere": "3,7,10,12,18,21",
+        "carteVerification": "562,352,637,399,779,518"
+    },
+    "#B630D70": {
+        "carteCritere": "1,7,10,14,16,22",
+        "carteVerification": "491,403,381,596,503,485"
+    },
+    "#B64AXMB": {
+        "carteCritere": "3,5,10,12,19,22",
+        "carteVerification": "662,247,633,399,255,533"
+    },
+    "#B64XHYD": {
+        "carteCritere": "3,5,15,17,19,20",
+        "carteVerification": "631,252,406,395,770,502"
+    },
+    "#B650SN3": {
+        "carteCritere": "4,5,8,16,19,21",
+        "carteVerification": "335,247,790,509,696,518"
+    },
+    "#B63271L": {
+        "carteCritere": "2,6,8,16,19,20",
+        "carteVerification": "599,543,793,515,699,502"
+    },
+    "#B63AZF7": {
+        "carteCritere": "4,7,9,14,20,22",
+        "carteVerification": "573,352,216,690,498,533"
+    },
+    "#B64BPPF": {
+        "carteCritere": "3,5,9,14,16,21",
+        "carteVerification": "662,441,362,690,509,518"
+    },
+    "#B630EG5": {
+        "carteCritere": "1,6,10,14,17,19",
+        "carteVerification": "530,490,639,418,484,770"
+    },
+    "#B64CJ55": {
+        "carteCritere": "3,10,12,16,19,22",
+        "carteVerification": "664,635,402,374,257,536"
+    },
+    "#B653PRX": {
+        "carteCritere": "4,9,18,19,21,22",
+        "carteVerification": "338,369,424,257,523,536"
+    },
+    "#B63TB2A": {
+        "carteCritere": "1,7,9,15,19,20",
+        "carteVerification": "652,657,648,611,237,743"
+    },
+    "#B632KF5": {
+        "carteCritere": "2,10,15,18,20,22",
+        "carteVerification": "599,635,406,781,502,536"
+    },
+    "#B64C4UW": {
+        "carteCritere": "3,7,9,16,21,22",
+        "carteVerification": "346,654,646,640,497,485"
+    },
+    "#B64Z6C1": {
+        "carteCritere": "3,9,14,16,18,21",
+        "carteVerification": "631,369,720,515,781,669"
+    },
+    "#B65BHG0": {
+        "carteCritere": "6,8,16,19,20,22",
+        "carteVerification": "481,356,640,233,516,485"
+    },
+    "#B64PSXF": {
+        "carteCritere": "2,5,9,16,19,20",
+        "carteVerification": "221,247,362,509,767,498"
+    },
+    "#B64Q242": {
+        "carteCritere": "2,6,10,13,18,19",
+        "carteVerification": "780,483,385,797,594,237"
+    },
+    "#B64Z741": {
+        "carteCritere": "3,9,12,18,19,22",
+        "carteVerification": "631,369,319,424,257,536"
+    },
+    "#B65FZM6": {
+        "carteCritere": "7,10,12,15,17,19",
+        "carteVerification": "657,378,697,331,541,317"
+    },
+    "#B65BVIU": {
+        "carteCritere": "6,11,17,19,21,22",
+        "carteVerification": "483,568,541,317,499,487"
+    },
+    "#B65DA4C": {
+        "carteCritere": "5,8,15,17,21,22",
+        "carteVerification": "578,206,609,537,497,485"
+    },
+    "#B64ZEJ0": {
+        "carteCritere": "3,13,16,18,19,20",
+        "carteVerification": "387,771,503,592,233,741"
+    },
+    "#B65CK9B": {
+        "carteCritere": "7,9,12,16,19,22",
+        "carteVerification": "610,216,316,372,696,533"
+    },
+    "#B63Z5X6": {
+        "carteCritere": "2,6,17,19,21,22",
+        "carteVerification": "437,534,625,317,499,487"
+    },
+    "#B65AJBP": {
+        "carteCritere": "5,8,15,16,19,21",
+        "carteVerification": "252,793,406,374,770,523"
+    },
+    "#B630KC7": {
+        "carteCritere": "1,10,18,19,20,22",
+        "carteVerification": "527,633,779,767,498,533"
+    },
+    "#B65AZDD": {
+        "carteCritere": "5,10,12,17,19,21",
+        "carteVerification": "252,635,402,484,699,523"
+    },
+    "#B630D75": {
+        "carteCritere": "1,7,10,16,20,22",
+        "carteVerification": "530,613,635,515,502,536"
+    },
+    "#B65BVK1": {
+        "carteCritere": "6,13,16,19,21,22",
+        "carteVerification": "543,386,374,699,523,536"
+    },
+    "#B65APZK": {
+        "carteCritere": "5,9,15,17,19,21",
+        "carteVerification": "758,646,609,618,233,497"
+    },
+    "#B632K5B": {
+        "carteCritere": "2,10,13,18,21,22",
+        "carteVerification": "597,637,382,779,518,533"
+    },
+    "#B653X7M": {
+        "carteCritere": "4,10,12,18,19,22",
+        "carteVerification": "677,385,697,594,755,487"
+    },
+    "#B64CJEU": {
+        "carteCritere": "3,12,16,18,19,21",
+        "carteVerification": "348,256,505,594,317,341"
+    },
+    "#B64C90P": {
+        "carteCritere": "3,7,10,12,19,22",
+        "carteVerification": "664,355,635,402,699,536"
+    },
+    "#B63ZJ21": {
+        "carteCritere": "2,8,16,18,19,22",
+        "carteVerification": "587,653,515,424,699,536"
+    },
+    "#B63ZLDG": {
+        "carteCritere": "2,9,13,16,19,21",
+        "carteVerification": "434,646,795,640,751,497"
+    },
+    "#B64Z9FL": {
+        "carteCritere": "3,9,12,16,19,22",
+        "carteVerification": "631,369,319,374,257,536"
+    },
+    "#B630J72": {
+        "carteCritere": "1,9,12,17,19,22",
+        "carteVerification": "495,785,616,528,237,487"
+    },
+    "#B63YR0Z": {
+        "carteCritere": "2,5,8,14,18,21",
+        "carteVerification": "585,441,651,690,421,518"
+    },
+    "#B64Z5FP": {
+        "carteCritere": "3,8,12,16,20,22",
+        "carteVerification": "631,653,319,374,502,536"
+    },
+    "#B653IY4": {
+        "carteCritere": "4,8,12,16,18,21",
+        "carteVerification": "670,206,253,503,592,339"
+    },
+    "#B65DZ3Q": {
+        "carteCritere": "5,10,14,17,19,20",
+        "carteVerification": "580,385,296,541,317,520"
+    },
+    "#B65FTUT": {
+        "carteCritere": "7,9,18,19,21,22",
+        "carteVerification": "355,219,424,699,523,536"
+    },
+    "#B63Z281": {
+        "carteCritere": "2,6,9,14,16,20",
+        "carteVerification": "587,490,369,694,515,502"
+    },
+    "#B64Z4UH": {
+        "carteCritere": "3,8,18,19,21,22",
+        "carteVerification": "631,653,424,257,523,536"
+    },
+    "#B632G2L": {
+        "carteCritere": "2,7,9,13,17,19",
+        "carteVerification": "599,355,219,205,484,770"
+    },
+    "#B630CU1": {
+        "carteCritere": "1,7,10,18,21,22",
+        "carteVerification": "530,613,635,781,523,536"
+    },
+    "#B64RJKY": {
+        "carteCritere": "2,9,13,16,19,21",
+        "carteVerification": "780,648,775,505,237,341"
+    },
+    "#B63287W": {
+        "carteCritere": "2,6,11,18,20,22",
+        "carteVerification": "413,481,723,220,516,485"
+    },
+    "#B65B22U": {
+        "carteCritere": "5,15,16,19,20,22",
+        "carteVerification": "763,611,643,237,520,487"
+    },
+    "#B653Z88": {
+        "carteCritere": "4,12,16,18,19,22",
+        "carteVerification": "670,695,640,592,751,485"
+    },
+    "#B63RXM8": {
+        "carteCritere": "1,6,12,16,19,21",
+        "carteVerification": "650,481,614,640,233,497"
+    },
+    "#B65F3AA": {
+        "carteCritere": "6,10,14,16,19,20",
+        "carteVerification": "534,385,598,505,317,520"
+    },
+    "#B63822O": {
+        "carteCritere": "3,5,9,11,17,22",
+        "carteVerification": "462,758,782,566,537,485"
+    },
+    "#B63ZK5W": {
+        "carteCritere": "2,9,13,16,18,19",
+        "carteVerification": "434,646,771,503,220,315"
+    },
+    "#B64YU72": {
+        "carteCritere": "3,7,9,12,14,18",
+        "carteVerification": "390,657,648,256,296,223"
+    },
+    "#B6327UA": {
+        "carteCritere": "2,6,9,17,19,22",
+        "carteVerification": "416,483,785,541,317,487"
+    },
+    "#B63ZIDV": {
+        "carteCritere": "2,8,14,16,21,22",
+        "carteVerification": "585,790,690,509,518,533"
+    },
+    "#B632GAT": {
+        "carteCritere": "2,7,10,18,20,22",
+        "carteVerification": "599,355,639,781,502,536"
+    },
+    "#B65CI5X": {
+        "carteCritere": "7,9,18,19,20,22",
+        "carteVerification": "613,219,424,699,502,536"
+    },
+    "#B63BVUG": {
+        "carteCritere": "4,10,12,17,19,20",
+        "carteVerification": "688,381,614,537,315,516"
+    },
+    "#B64R5TZ": {
+        "carteCritere": "2,7,9,12,17,22",
+        "carteVerification": "221,352,362,399,393,533"
+    },
+    "#B65BVSW": {
+        "carteCritere": "6,13,17,19,20,22",
+        "carteVerification": "481,632,618,315,516,485"
+    },
+    "#B64RM20": {
+        "carteCritere": "2,9,16,18,21,22",
+        "carteVerification": "778,782,503,592,497,485"
+    },
+    "#B63AZZQ": {
+        "carteCritere": "4,7,10,14,19,22",
+        "carteVerification": "453,657,385,325,317,487"
+    },
+    "#B65BK3I": {
+        "carteCritere": "6,9,13,18,19,20",
+        "carteVerification": "483,648,634,594,317,743"
+    },
+    "#B64Q3FO": {
+        "carteCritere": "2,6,12,19,20,22",
+        "carteVerification": "778,481,614,751,516,485"
+    },
+    "#B64CJHM": {
+        "carteCritere": "3,13,16,18,19,20",
+        "carteVerification": "348,775,505,594,317,743"
+    },
+    "#B64YYY8": {
+        "carteCritere": "3,7,10,15,17,21",
+        "carteVerification": "387,654,381,661,537,497"
+    },
+    "#B65GOXG": {
+        "carteCritere": "9,13,18,19,21,22",
+        "carteVerification": "646,795,592,751,497,485"
+    },
+    "#B65B1N6": {
+        "carteCritere": "5,14,16,19,21,22",
+        "carteVerification": "763,325,643,317,499,487"
+    },
+    "#B63ZNFQ": {
+        "carteCritere": "2,9,16,18,19,21",
+        "carteVerification": "437,785,505,594,317,499"
+    },
+    "#B63YZNI": {
+        "carteCritere": "2,6,9,13,15,18",
+        "carteVerification": "437,534,648,775,663,223"
+    },
+    "#B64XROJ": {
+        "carteCritere": "3,6,9,12,16,19",
+        "carteVerification": "629,540,362,754,509,767"
+    },
+    "#B653Q9N": {
+        "carteCritere": "4,9,13,16,18,19",
+        "carteVerification": "335,362,228,372,421,767"
+    },
+    "#B653Q7C": {
+        "carteCritere": "4,9,13,15,16,18",
+        "carteVerification": "670,646,771,661,640,592"
+    },
+    "#B63YKLU": {
+        "carteCritere": "2,7,10,16,19,21",
+        "carteVerification": "437,405,385,505,317,499"
+    },
+    "#B64AVTZ": {
+        "carteCritere": "3,5,8,14,17,21",
+        "carteVerification": "662,247,790,690,393,518"
+    },
+    "#B65BLCZ": {
+        "carteCritere": "6,9,15,17,19,21",
+        "carteVerification": "540,362,404,393,767,518"
+    },
+    "#B65BUI7": {
+        "carteCritere": "6,14,18,19,20,22",
+        "carteVerification": "540,690,421,696,498,533"
+    },
+    "#B64XGWQ": {
+        "carteCritere": "3,5,10,15,18,19",
+        "carteVerification": "390,763,385,611,594,237"
+    },
+    "#B63T528": {
+        "carteCritere": "1,6,13,16,19,20",
+        "carteVerification": "650,532,795,503,233,741"
+    },
+    "#B64BQ3S": {
+        "carteCritere": "3,5,9,12,17,20",
+        "carteVerification": "346,578,646,695,618,516"
+    },
+    "#B63ZL9R": {
+        "carteCritere": "2,9,13,17,21,22",
+        "carteVerification": "585,362,382,482,518,533"
+    },
+    "#B65B1YA": {
+        "carteCritere": "5,12,17,19,20,22",
+        "carteVerification": "763,697,625,317,520,487"
+    },
+    "#B63ZLMK": {
+        "carteCritere": "2,9,12,16,19,21",
+        "carteVerification": "434,646,253,640,315,339"
+    },
+    "#B652IX7": {
+        "carteCritere": "4,5,9,14,17,19",
+        "carteVerification": "335,441,216,690,482,696"
+    },
+    "#B64Z3F1": {
+        "carteCritere": "3,8,13,16,19,21",
+        "carteVerification": "631,793,205,374,770,523"
+    },
+    "#B65H5N1": {
+        "carteCritere": "10,11,17,19,20,22",
+        "carteVerification": "635,461,484,770,502,536"
+    },
+    "#B63AZ7O": {
+        "carteCritere": "4,7,9,14,21,22",
+        "carteVerification": "447,654,782,322,497,485"
+    },
+    "#B63ZOZT": {
+        "carteCritere": "2,12,16,18,19,21",
+        "carteVerification": "587,319,515,424,699,523"
+    },
+    "#B65BUAU": {
+        "carteCritere": "6,13,18,19,20,22",
+        "carteVerification": "483,634,223,317,520,487"
+    },
+    "#B64QWZ6": {
+        "carteCritere": "2,6,10,16,19,21",
+        "carteVerification": "780,534,385,505,237,499"
+    },
+    "#B63YFHP": {
+        "carteCritere": "2,6,14,16,19,21",
+        "carteVerification": "587,543,694,374,699,523"
+    },
+    "#B65BU9G": {
+        "carteCritere": "6,13,18,19,21,22",
+        "carteVerification": "481,795,220,315,497,485"
+    },
+    "#B64XHOT": {
+        "carteCritere": "3,5,15,16,19,21",
+        "carteVerification": "631,252,406,374,770,523"
+    },
+    "#B63YRW4": {
+        "carteCritere": "2,5,9,15,18,22",
+        "carteVerification": "434,578,782,661,592,485"
+    },
+    "#B630EGB": {
+        "carteCritere": "1,6,18,19,21,22",
+        "carteVerification": "527,486,779,767,518,533"
+    },
+    "#B64CJHL": {
+        "carteCritere": "3,12,16,18,19,20",
+        "carteVerification": "664,757,515,424,699,273"
+    },
+    "#B64Z6RN": {
+        "carteCritere": "3,9,15,16,18,21",
+        "carteVerification": "629,362,347,372,421,667"
+    },
+    "#B65FZNC": {
+        "carteCritere": "7,10,13,15,17,19",
+        "carteVerification": "654,376,632,661,537,315"
+    },
+    "#B65ANU6": {
+        "carteCritere": "5,9,12,18,19,20",
+        "carteVerification": "763,648,697,223,317,743"
+    },
+    "#B63285R": {
+        "carteCritere": "2,6,10,16,20,22",
+        "carteVerification": "597,540,633,509,498,533"
+    },
+    "#B64Z9FC": {
+        "carteCritere": "3,9,12,16,19,20",
+        "carteVerification": "387,646,695,640,751,516"
+    },
+    "#B63BVTZ": {
+        "carteCritere": "4,10,14,18,19,20",
+        "carteVerification": "324,633,414,779,696,498"
+    },
+    "#B64XQGB": {
+        "carteCritere": "3,6,9,12,19,21",
+        "carteVerification": "629,540,362,316,255,518"
+    },
+    "#B65BVVP": {
+        "carteCritere": "6,13,16,19,20,22",
+        "carteVerification": "543,205,515,770,502,536"
+    },
+    "#B65B0IY": {
+        "carteCritere": "5,14,18,19,20,22",
+        "carteVerification": "763,325,594,317,520,487"
+    },
+    "#B63B4GO": {
+        "carteCritere": "4,14,16,19,21,22",
+        "carteVerification": "447,322,640,315,497,485"
+    },
+    "#B64PPOF": {
+        "carteCritere": "2,5,8,17,19,20",
+        "carteVerification": "221,247,651,393,767,498"
+    },
+    "#B65BHBJ": {
+        "carteCritere": "6,8,16,19,21,22",
+        "carteVerification": "540,651,372,767,518,533"
+    },
+    "#B65CI3T": {
+        "carteCritere": "7,9,13,18,20,22",
+        "carteVerification": "613,219,386,424,502,536"
+    },
+    "#B64BBUL": {
+        "carteCritere": "3,6,12,19,21,22",
+        "carteVerification": "664,543,402,257,523,536"
+    },
+    "#B64CE8C": {
+        "carteCritere": "3,9,14,16,18,21",
+        "carteVerification": "346,646,596,640,592,339"
+    },
+    "#B64RKKK": {
+        "carteCritere": "2,9,12,16,19,20",
+        "carteVerification": "778,646,253,640,233,741"
+    },
+    "#B63YFOP": {
+        "carteCritere": "2,6,14,17,19,20",
+        "carteVerification": "587,543,694,395,699,502"
+    },
+    "#B65B1KW": {
+        "carteCritere": "5,15,17,19,21,22",
+        "carteVerification": "758,609,618,233,497,485"
+    },
+    "#B6328E1": {
+        "carteCritere": "2,6,11,16,20,22",
+        "carteVerification": "599,543,461,515,502,536"
+    },
+    "#B65BHAF": {
+        "carteCritere": "6,8,12,16,21,22",
+        "carteVerification": "540,651,316,372,518,533"
+    },
+    "#B63AR0F": {
+        "carteCritere": "4,5,8,13,18,22",
+        "carteVerification": "573,441,790,382,779,533"
+    },
+    "#B632KFF": {
+        "carteCritere": "2,10,15,17,21,22",
+        "carteVerification": "597,633,404,482,518,533"
+    },
+    "#B63RYC3": {
+        "carteCritere": "1,6,13,17,19,20",
+        "carteVerification": "357,540,202,482,767,498"
+    },
+    "#B63282P": {
+        "carteCritere": "2,6,9,13,16,19",
+        "carteVerification": "599,543,219,205,515,770"
+    },
+    "#B63830N": {
+        "carteCritere": "3,5,12,16,19,20",
+        "carteVerification": "562,247,316,509,696,498"
+    },
+    "#B65GUZA": {
+        "carteCritere": "9,12,16,19,20,22",
+        "carteVerification": "648,697,643,755,520,487"
+    },
+    "#B65DZJD": {
+        "carteCritere": "5,10,14,16,19,20",
+        "carteVerification": "445,635,720,515,699,502"
+    },
+    "#B65BVTN": {
+        "carteCritere": "6,11,16,19,20,22",
+        "carteVerification": "540,287,509,696,498,533"
+    },
+    "#B63877G": {
+        "carteCritere": "3,5,9,13,18,22",
+        "carteVerification": "462,578,782,632,592,485"
+    },
+    "#B63B4GE": {
+        "carteCritere": "4,12,16,19,21,22",
+        "carteVerification": "453,697,643,317,499,487"
+    },
+    "#B65EURL": {
+        "carteCritere": "6,9,14,18,20,22",
+        "carteVerification": "490,219,418,424,502,536"
+    },
+    "#B651H9Q": {
+        "carteCritere": "4,6,10,17,19,22",
+        "carteVerification": "677,483,385,625,237,487"
+    },
+    "#B63BVTW": {
+        "carteCritere": "4,10,12,18,19,20",
+        "carteVerification": "688,381,614,220,315,516"
+    },
+    "#B65BFGA": {
+        "carteCritere": "6,8,15,16,19,21",
+        "carteVerification": "483,212,611,643,237,499"
+    },
+    "#B63B0AH": {
+        "carteCritere": "4,7,12,17,21,22",
+        "carteVerification": "577,355,402,395,523,536"
+    },
+    "#B653J3J": {
+        "carteCritere": "4,8,12,16,18,20",
+        "carteVerification": "335,790,754,509,421,268"
+    },
+    "#B64YI7C": {
+        "carteCritere": "3,5,13,16,19,20",
+        "carteVerification": "387,578,771,503,233,741"
+    },
+    "#B65DQV1": {
+        "carteCritere": "5,9,14,18,20,22",
+        "carteVerification": "445,219,418,424,502,536"
+    },
+    "#B63YFTE": {
+        "carteCritere": "2,6,14,16,19,20",
+        "carteVerification": "437,483,325,643,317,520"
+    },
+    "#B64R8WY": {
+        "carteCritere": "2,7,10,13,18,20",
+        "carteVerification": "780,657,385,634,223,520"
+    },
+    "#B63ZFQM": {
+        "carteCritere": "2,7,13,18,19,21",
+        "carteVerification": "437,657,775,594,317,341"
+    },
+    "#B63TO74": {
+        "carteCritere": "1,9,15,18,19,21",
+        "carteVerification": "650,646,609,592,233,497"
+    },
+    "#B64YGCK": {
+        "carteCritere": "3,5,10,15,18,20",
+        "carteVerification": "387,578,381,609,220,516"
+    },
+    "#B653Z8L": {
+        "carteCritere": "4,12,16,18,19,20",
+        "carteVerification": "338,319,515,424,699,273"
+    },
+    "#B65BUEN": {
+        "carteCritere": "6,15,18,19,21,22",
+        "carteVerification": "540,404,421,767,518,533"
+    },
+    "#B63ZKRS": {
+        "carteCritere": "2,9,18,19,20,22",
+        "carteVerification": "434,646,592,751,516,485"
+    },
+    "#B638ACI": {
+        "carteCritere": "3,7,9,18,19,22",
+        "carteVerification": "464,657,785,223,317,487"
+    },
+    "#B63ZNKB": {
+        "carteCritere": "2,9,13,16,18,22",
+        "carteVerification": "585,216,382,509,421,533"
+    },
+    "#B63ZLDF": {
+        "carteCritere": "2,9,13,16,21,22",
+        "carteVerification": "585,362,382,509,518,533"
+    },
+    "#B65AV94": {
+        "carteCritere": "5,9,14,19,21,22",
+        "carteVerification": "758,782,322,315,497,485"
+    },
+    "#B64Z4UU": {
+        "carteCritere": "3,8,16,18,19,21",
+        "carteVerification": "390,358,505,594,237,499"
+    },
+    "#B65B0ES": {
+        "carteCritere": "5,15,18,19,21,22",
+        "carteVerification": "758,609,592,233,497,485"
+    },
+    "#B65CKGC": {
+        "carteCritere": "7,9,12,16,19,22",
+        "carteVerification": "403,782,614,640,233,485"
+    },
+    "#B63Y3PD": {
+        "carteCritere": "2,5,8,14,18,21",
+        "carteVerification": "587,252,653,694,424,523"
+    },
+    "#B65AV6Z": {
+        "carteCritere": "5,9,13,16,21,22",
+        "carteVerification": "247,216,382,372,518,533"
+    },
+    "#B632K5P": {
+        "carteCritere": "2,10,13,18,20,22",
+        "carteVerification": "599,639,386,781,502,536"
+    },
+    "#B64C4WY": {
+        "carteCritere": "3,7,9,12,17,21",
+        "carteVerification": "348,657,648,697,625,341"
+    },
+    "#B65AVX4": {
+        "carteCritere": "5,9,12,19,20,22",
+        "carteVerification": "758,782,695,315,516,485"
+    },
+    "#B63Y514": {
+        "carteCritere": "2,5,9,12,14,18",
+        "carteVerification": "434,758,646,253,293,592"
+    },
+    "#B632HMP": {
+        "carteCritere": "2,8,15,18,20,22",
+        "carteVerification": "599,793,406,781,502,536"
+    },
+    "#B63ZNYD": {
+        "carteCritere": "2,9,12,17,19,22",
+        "carteVerification": "587,219,319,395,699,536"
+    },
+    "#B65AKLH": {
+        "carteCritere": "5,8,15,16,20,22",
+        "carteVerification": "252,793,406,374,502,536"
+    },
+    "#B63286S": {
+        "carteCritere": "2,6,11,18,21,22",
+        "carteVerification": "413,481,723,220,497,485"
+    },
+    "#B653UX0": {
+        "carteCritere": "4,9,12,16,18,19",
+        "carteVerification": "670,782,695,503,592,315"
+    },
+    "#B64BB3L": {
+        "carteCritere": "3,6,12,18,21,22",
+        "carteVerification": "664,543,402,781,523,536"
+    },
+    "#B65AQE2": {
+        "carteCritere": "5,9,12,17,19,21",
+        "carteVerification": "763,648,616,625,237,341"
+    },
+    "#B65B0EE": {
+        "carteCritere": "5,12,18,19,21,22",
+        "carteVerification": "763,697,594,317,499,487"
+    },
+    "#B63SZQ6": {
+        "carteCritere": "1,6,10,15,18,19",
+        "carteVerification": "652,534,378,611,594,237"
+    },
+    "#B65AJB7": {
+        "carteCritere": "5,8,12,16,19,21",
+        "carteVerification": "247,790,399,372,767,518"
+    },
+    "#B64RIIK": {
+        "carteCritere": "2,9,11,15,16,18",
+        "carteVerification": "778,646,737,609,640,592"
+    },
+    "#B64Z4WG": {
+        "carteCritere": "3,8,18,19,20,22",
+        "carteVerification": "387,356,592,751,516,485"
+    },
+    "#B65AW5Z": {
+        "carteCritere": "5,9,15,19,20,22",
+        "carteVerification": "247,216,404,767,498,533"
+    },
+    "#B64Q3BM": {
+        "carteCritere": "2,6,13,17,19,20",
+        "carteVerification": "780,483,797,625,237,520"
+    },
+    "#B64B8T2": {
+        "carteCritere": "3,6,9,12,16,19",
+        "carteVerification": "348,483,648,256,505,317"
+    },
+    "#B63Z6CB": {
+        "carteCritere": "2,6,11,16,20,22",
+        "carteVerification": "585,486,287,372,498,533"
+    },
+    "#B63Z98D": {
+        "carteCritere": "2,7,8,19,20,22",
+        "carteVerification": "587,355,653,257,502,536"
+    },
+    "#B64ZEG3": {
+        "carteCritere": "3,13,16,18,19,21",
+        "carteVerification": "629,228,509,421,767,667"
+    },
+    "#B65BMJA": {
+        "carteCritere": "6,9,14,17,19,20",
+        "carteVerification": "483,648,325,625,317,520"
+    },
+    "#B64RI6T": {
+        "carteCritere": "2,9,14,16,18,20",
+        "carteVerification": "224,369,418,515,781,273"
+    },
+    "#B65ARNV": {
+        "carteCritere": "5,9,12,17,19,20",
+        "carteVerification": "247,362,399,393,767,268"
+    },
+    "#B65APZJ": {
+        "carteCritere": "5,9,12,17,19,21",
+        "carteVerification": "247,362,399,393,767,518"
+    },
+    "#B63YPVJ": {
+        "carteCritere": "2,5,8,12,18,20",
+        "carteVerification": "585,441,790,754,421,268"
+    },
+    "#B65BVW0": {
+        "carteCritere": "6,14,16,19,20,22",
+        "carteVerification": "481,322,640,315,516,485"
+    },
+    "#B630D7S": {
+        "carteCritere": "1,7,16,19,20,22",
+        "carteVerification": "491,403,503,233,516,485"
+    },
+    "#B65FQII": {
+        "carteCritere": "7,9,11,19,20,22",
+        "carteVerification": "657,648,726,755,520,487"
+    },
+    "#B63RSSM": {
+        "carteCritere": "1,6,9,13,17,19",
+        "carteVerification": "652,483,648,797,625,237"
+    },
+    "#B64PYJB": {
+        "carteCritere": "2,6,8,18,19,20",
+        "carteVerification": "221,540,790,779,767,268"
+    },
+    "#B63ZBQR": {
+        "carteCritere": "2,7,9,14,16,21",
+        "carteVerification": "585,352,362,718,509,518"
+    },
+    "#B632GLQ": {
+        "carteCritere": "2,7,18,19,20,22",
+        "carteVerification": "416,657,223,317,520,487"
+    },
+    "#B64Q2DS": {
+        "carteCritere": "2,6,10,13,17,19",
+        "carteVerification": "778,481,381,795,618,233"
+    },
+    "#B63ZJ1R": {
+        "carteCritere": "2,8,18,19,20,22",
+        "carteVerification": "585,651,421,255,498,533"
+    },
+    "#B6326XQ": {
+        "carteCritere": "2,6,8,17,21,22",
+        "carteVerification": "416,483,212,541,499,487"
+    },
+    "#B64R47T": {
+        "carteCritere": "2,7,9,12,18,21",
+        "carteVerification": "224,355,369,402,424,523"
+    },
+    "#B63ZHYW": {
+        "carteCritere": "2,8,11,16,18,20",
+        "carteVerification": "434,206,737,503,592,741"
+    },
+    "#B65ENHS": {
+        "carteCritere": "6,9,11,18,19,21",
+        "carteVerification": "532,646,737,592,315,339"
+    },
+    "#B65BTLR": {
+        "carteCritere": "6,10,13,17,19,20",
+        "carteVerification": "540,633,202,482,696,498"
+    },
+    "#B630D7R": {
+        "carteCritere": "1,7,17,19,20,22",
+        "carteVerification": "527,610,482,767,498,533"
+    },
+    "#B65EJHD": {
+        "carteCritere": "6,8,14,18,20,22",
+        "carteVerification": "490,653,694,424,502,536"
+    },
+    "#B64B5ZX": {
+        "carteCritere": "3,6,9,12,18,22",
+        "carteVerification": "664,543,369,319,781,536"
+    },
+    "#B63U4YB": {
+        "carteCritere": "1,13,16,18,19,20",
+        "carteVerification": "357,202,509,779,767,268"
+    },
+    "#B64YB0I": {
+        "carteCritere": "3,5,9,12,14,18",
+        "carteVerification": "390,580,648,256,296,223"
+    },
+    "#B63ZHRP": {
+        "carteCritere": "2,8,13,18,21,22",
+        "carteVerification": "587,793,386,781,523,536"
+    },
+    "#B63ZPF1": {
+        "carteCritere": "2,12,16,19,21,22",
+        "carteVerification": "587,319,374,257,523,536"
+    },
+    "#B65BUEF": {
+        "carteCritere": "6,13,18,19,21,22",
+        "carteVerification": "540,382,421,696,518,533"
+    },
+    "#B64C5OS": {
+        "carteCritere": "3,7,9,12,19,20",
+        "carteVerification": "346,654,646,253,315,741"
+    },
+    "#B65GVDL": {
+        "carteCritere": "9,13,16,19,20,22",
+        "carteVerification": "369,205,374,257,502,536"
+    },
+    "#B64Q3G6": {
+        "carteCritere": "2,6,15,16,19,20",
+        "carteVerification": "780,483,611,643,237,520"
+    },
+    "#B65CK5P": {
+        "carteCritere": "7,9,11,19,20,22",
+        "carteVerification": "613,219,289,699,502,536"
+    },
+    "#B63Y957": {
+        "carteCritere": "2,5,10,16,19,22",
+        "carteVerification": "585,247,633,372,696,533"
+    },
+    "#B64PQ6N": {
+        "carteCritere": "2,5,9,18,19,20",
+        "carteVerification": "221,247,362,779,767,498"
+    },
+    "#B64Z59Z": {
+        "carteCritere": "3,8,12,16,21,22",
+        "carteVerification": "629,651,316,372,518,533"
+    },
+    "#B63271R": {
+        "carteCritere": "2,6,8,16,19,22",
+        "carteVerification": "597,540,790,509,696,533"
+    },
+    "#B63ZK57": {
+        "carteCritere": "2,9,13,18,19,20",
+        "carteVerification": "585,362,228,779,696,268"
+    },
+    "#B64XZY3": {
+        "carteCritere": "3,7,9,13,15,18",
+        "carteVerification": "629,610,362,228,347,421"
+    },
+    "#B64AXSU": {
+        "carteCritere": "3,5,12,18,19,22",
+        "carteVerification": "348,763,616,594,755,487"
+    },
+    "#B638CK7": {
+        "carteCritere": "3,7,12,17,19,20",
+        "carteVerification": "562,352,316,482,696,498"
+    },
+    "#B64Q2NS": {
+        "carteCritere": "2,6,15,18,19,21",
+        "carteVerification": "778,481,609,592,233,497"
+    },
+    "#B64YICQ": {
+        "carteCritere": "3,5,12,16,20,22",
+        "carteVerification": "390,580,616,643,520,487"
+    },
+    "#B653TJ1": {
+        "carteCritere": "4,9,12,16,19,20",
+        "carteVerification": "338,369,319,374,257,502"
+    },
+    "#B65C8V3": {
+        "carteCritere": "7,8,12,17,19,22",
+        "carteVerification": "610,790,399,393,767,533"
+    },
+    "#B65AHD1": {
+        "carteCritere": "5,8,15,18,21,22",
+        "carteVerification": "252,793,406,781,523,536"
+    },
+    "#B630D4V": {
+        "carteCritere": "1,7,10,14,17,22",
+        "carteVerification": "527,610,633,414,482,533"
+    },
+    "#B632A7T": {
+        "carteCritere": "2,7,10,13,16,20",
+        "carteVerification": "599,613,635,205,515,502"
+    },
+    "#B65ARO1": {
+        "carteCritere": "5,9,15,17,19,20",
+        "carteVerification": "252,369,406,395,770,502"
+    },
+    "#B64Z6Z6": {
+        "carteCritere": "3,9,12,16,18,20",
+        "carteVerification": "390,648,256,505,594,743"
+    },
+    "#B65CJJW": {
+        "carteCritere": "7,9,13,16,21,22",
+        "carteVerification": "403,782,795,640,497,485"
+    },
+    "#B63T716": {
+        "carteCritere": "1,7,9,15,18,19",
+        "carteVerification": "652,657,648,611,594,237"
+    },
+    "#B65B050": {
+        "carteCritere": "5,10,14,16,19,22",
+        "carteVerification": "758,381,322,640,315,485"
+    },
+    "#B64Q9W7": {
+        "carteCritere": "2,7,10,17,19,20",
+        "carteVerification": "221,610,633,482,767,498"
+    },
+    "#B651Q5W": {
+        "carteCritere": "4,7,8,17,21,22",
+        "carteVerification": "670,403,206,537,497,485"
+    },
+    "#B65AOM5": {
+        "carteCritere": "5,9,15,18,19,20",
+        "carteVerification": "252,369,406,424,770,502"
+    },
+    "#B63ZDLT": {
+        "carteCritere": "2,7,9,16,20,22",
+        "carteVerification": "587,355,369,374,502,536"
+    },
+    "#B65BVJ4": {
+        "carteCritere": "6,13,17,19,21,22",
+        "carteVerification": "481,632,618,315,497,485"
+    },
+    "#B65DEOS": {
+        "carteCritere": "5,8,14,18,19,21",
+        "carteVerification": "578,356,293,592,233,497"
+    },
+    "#B65AV46": {
+        "carteCritere": "5,9,12,17,21,22",
+        "carteVerification": "763,785,697,625,499,487"
+    },
+    "#B6328C6": {
+        "carteCritere": "2,6,16,19,21,22",
+        "carteVerification": "416,483,505,317,499,487"
+    },
+    "#B653QMS": {
+        "carteCritere": "4,9,15,16,18,20",
+        "carteVerification": "670,646,609,640,592,741"
+    },
+    "#B64XHAV": {
+        "carteCritere": "3,5,12,18,19,20",
+        "carteVerification": "629,247,399,421,767,498"
+    },
+    "#B632GL8": {
+        "carteCritere": "2,7,11,18,20,22",
+        "carteVerification": "413,654,723,220,516,485"
+    },
+    "#B64RP6H": {
+        "carteCritere": "2,10,12,16,19,22",
+        "carteVerification": "224,635,402,374,257,536"
+    },
+    "#B63AV0O": {
+        "carteCritere": "4,5,16,19,21,22",
+        "carteVerification": "447,578,640,315,497,485"
+    },
+    "#B64Q2QM": {
+        "carteCritere": "2,6,15,18,19,20",
+        "carteVerification": "780,483,611,594,237,520"
+    },
+    "#B65BMJ6": {
+        "carteCritere": "6,9,15,17,19,20",
+        "carteVerification": "483,648,611,625,237,520"
+    },
+    "#B63285D": {
+        "carteCritere": "2,6,10,17,20,22",
+        "carteVerification": "599,543,635,484,502,536"
+    },
+    "#B632E8M": {
+        "carteCritere": "2,7,8,11,21,22",
+        "carteVerification": "416,657,358,726,499,487"
+    },
+    "#B651IZ2": {
+        "carteCritere": "4,6,13,16,19,21",
+        "carteVerification": "677,483,797,505,317,499"
+    },
+    "#B64YGSR": {
+        "carteCritere": "3,5,10,15,16,20",
+        "carteVerification": "629,441,633,404,509,498"
+    },
+    "#B65BUAH": {
+        "carteCritere": "6,11,18,19,20,22",
+        "carteVerification": "543,289,781,699,502,536"
+    },
+    "#B64R56A": {
+        "carteCritere": "2,7,9,11,16,21",
+        "carteVerification": "780,657,648,739,505,341"
+    },
+    "#B630EBF": {
+        "carteCritere": "1,6,10,14,18,19",
+        "carteVerification": "527,486,637,414,779,767"
+    },
+    "#B63B3ND": {
+        "carteCritere": "4,10,18,19,21,22",
+        "carteVerification": "577,635,781,699,523,536"
+    },
+    "#B65G4HL": {
+        "carteCritere": "7,15,18,19,21,22",
+        "carteVerification": "355,406,424,770,523,536"
+    },
+    "#B64R6K0": {
+        "carteCritere": "2,7,9,12,16,19",
+        "carteVerification": "778,654,646,614,640,751"
+    },
+    "#B64Z77I": {
+        "carteCritere": "3,9,13,18,19,20",
+        "carteVerification": "390,648,797,594,755,520"
+    },
+    "#B65BPZK": {
+        "carteCritere": "6,9,11,16,19,22",
+        "carteVerification": "481,782,723,503,233,485"
+    },
+    "#B65ENRP": {
+        "carteCritere": "6,9,12,18,19,20",
+        "carteVerification": "490,369,319,424,699,502"
+    },
+    "#B63Y6VM": {
+        "carteCritere": "2,5,9,17,19,20",
+        "carteVerification": "437,763,648,541,317,520"
+    },
+    "#B64Z0EZ": {
+        "carteCritere": "3,7,12,19,21,22",
+        "carteVerification": "629,352,316,767,518,533"
+    },
+    "#B64CH8Z": {
+        "carteCritere": "3,9,12,16,19,20",
+        "carteVerification": "662,362,399,372,255,498"
+    },
+    "#B64YCIC": {
+        "carteCritere": "3,5,9,11,16,21",
+        "carteVerification": "387,578,646,723,640,339"
+    },
+    "#B6328CX": {
+        "carteCritere": "2,6,11,17,20,22",
+        "carteVerification": "599,543,461,484,502,536"
+    },
+    "#B65CKGQ": {
+        "carteCritere": "7,9,13,16,19,22",
+        "carteVerification": "405,785,797,643,237,487"
+    },
+    "#B6328EE": {
+        "carteCritere": "2,6,16,19,20,22",
+        "carteVerification": "416,483,505,317,520,487"
+    },
+    "#B65EUMQ": {
+        "carteCritere": "6,9,15,18,21,22",
+        "carteVerification": "534,785,663,594,499,487"
+    },
+    "#B64CJE5": {
+        "carteCritere": "3,13,16,18,19,21",
+        "carteVerification": "664,386,515,424,699,523"
+    },
+    "#B65CK1V": {
+        "carteCritere": "7,9,12,17,20,22",
+        "carteVerification": "610,216,399,393,498,533"
+    },
+    "#B65ATQ1": {
+        "carteCritere": "5,9,13,18,21,22",
+        "carteVerification": "252,219,205,424,523,536"
+    },
+    "#B63Y3PQ": {
+        "carteCritere": "2,5,8,18,21,22",
+        "carteVerification": "437,763,358,594,499,487"
+    },
+    "#B632GUC": {
+        "carteCritere": "2,7,13,17,20,22",
+        "carteVerification": "413,654,795,537,516,485"
+    },
+    "#B65AYGQ": {
+        "carteCritere": "5,10,14,18,19,22",
+        "carteVerification": "763,385,325,594,317,487"
+    },
+    "#B650RTT": {
+        "carteCritere": "4,5,8,18,19,21",
+        "carteVerification": "338,252,793,781,699,523"
+    },
+    "#B630EIE": {
+        "carteCritere": "1,6,11,18,19,21",
+        "carteVerification": "495,534,568,594,237,499"
+    },
+    "#B63YFSJ": {
+        "carteCritere": "2,6,13,16,19,20",
+        "carteVerification": "585,540,382,372,696,498"
+    },
+    "#B651VSP": {
+        "carteCritere": "4,7,9,16,21,22",
+        "carteVerification": "338,613,219,374,523,536"
+    },
+    "#B64PV3B": {
+        "carteCritere": "2,5,17,19,21,22",
+        "carteVerification": "221,247,393,767,518,533"
+    },
+    "#B65FZMZ": {
+        "carteCritere": "7,10,11,14,17,19",
+        "carteVerification": "352,637,458,690,482,696"
+    },
+    "#B638AL7": {
+        "carteCritere": "3,7,9,13,18,22",
+        "carteVerification": "562,352,216,202,421,533"
+    },
+    "#B65BUEQ": {
+        "carteCritere": "6,14,18,19,21,22",
+        "carteVerification": "483,325,594,317,499,487"
+    },
+    "#B63ZLEH": {
+        "carteCritere": "2,9,16,19,21,22",
+        "carteVerification": "587,369,374,257,523,536"
+    },
+    "#B63BVUR": {
+        "carteCritere": "4,10,14,16,19,20",
+        "carteVerification": "324,633,414,509,696,498"
+    },
+    "#B64BPQW": {
+        "carteCritere": "3,5,9,11,17,21",
+        "carteVerification": "346,578,646,566,618,339"
+    },
+    "#B6328E7": {
+        "carteCritere": "2,6,13,16,19,20",
+        "carteVerification": "597,540,382,509,696,498"
+    },
+    "#B64Q2QR": {
+        "carteCritere": "2,6,18,19,20,22",
+        "carteVerification": "221,540,421,767,498,533"
+    },
+    "#B6328BZ": {
+        "carteCritere": "2,6,13,16,19,21",
+        "carteVerification": "597,540,382,509,696,518"
+    },
+    "#B65AVRC": {
+        "carteCritere": "5,9,13,17,20,22",
+        "carteVerification": "758,782,795,618,516,485"
+    },
+    "#B64CJJ9": {
+        "carteCritere": "3,12,16,18,19,22",
+        "carteVerification": "664,402,374,424,257,536"
+    },
+    "#B63YFAD": {
+        "carteCritere": "2,6,12,18,19,22",
+        "carteVerification": "587,543,319,424,257,536"
+    },
+    "#B65CHW5": {
+        "carteCritere": "7,9,12,18,21,22",
+        "carteVerification": "613,219,402,424,523,536"
+    },
+    "#B64Q85J": {
+        "carteCritere": "2,7,9,13,17,21",
+        "carteVerification": "221,610,362,382,393,667"
+    },
+    "#B65ATVD": {
+        "carteCritere": "5,9,13,18,19,22",
+        "carteVerification": "252,219,386,424,699,536"
+    },
+    "#B6382YZ": {
+        "carteCritere": "3,5,12,17,19,20",
+        "carteVerification": "562,247,316,482,696,498"
+    },
+    "#B65B230": {
+        "carteCritere": "5,14,16,19,20,22",
+        "carteVerification": "758,322,640,315,516,485"
+    },
+    "#B65BLD0": {
+        "carteCritere": "6,9,14,17,19,21",
+        "carteVerification": "481,646,322,618,315,497"
+    },
+    "#B65FHJL": {
+        "carteCritere": "7,8,11,19,21,22",
+        "carteVerification": "355,653,289,257,523,536"
+    },
+    "#B63TY3I": {
+        "carteCritere": "1,10,13,18,19,20",
+        "carteVerification": "652,378,797,223,237,743"
+    },
+    "#B65FA1D": {
+        "carteCritere": "7,8,14,18,20,22",
+        "carteVerification": "355,793,418,424,502,536"
+    },
+    "#B65DZI1": {
+        "carteCritere": "5,10,15,16,19,22",
+        "carteVerification": "445,635,349,515,699,536"
+    },
+    "#B64AX8E": {
+        "carteCritere": "3,5,9,12,19,22",
+        "carteVerification": "348,763,648,616,755,487"
+    },
+    "#B64BSKY": {
+        "carteCritere": "3,5,10,18,19,22",
+        "carteVerification": "348,580,385,594,317,487"
+    },
+    "#B65FRIU": {
+        "carteCritere": "7,9,13,16,19,20",
+        "carteVerification": "657,648,797,505,237,743"
+    },
+    "#B64PSWL": {
+        "carteCritere": "2,5,9,16,19,20",
+        "carteVerification": "224,252,369,515,770,273"
+    },
+    "#B63RWMD": {
+        "carteCritere": "1,6,12,18,19,21",
+        "carteVerification": "359,543,402,781,770,523"
+    },
+    "#B63YEYX": {
+        "carteCritere": "2,6,10,17,19,22",
+        "carteVerification": "587,543,635,395,699,536"
+    },
+    "#B63287J": {
+        "carteCritere": "2,6,18,19,21,22",
+        "carteVerification": "597,540,779,767,518,533"
+    },
+    "#B63T5TC": {
+        "carteCritere": "1,7,8,16,19,21",
+        "carteVerification": "650,654,356,503,751,497"
+    },
+    "#B65GPL9": {
+        "carteCritere": "9,11,16,18,19,22",
+        "carteVerification": "369,461,374,424,257,536"
+    },
+    "#B63YER1": {
+        "carteCritere": "2,6,10,14,18,19",
+        "carteVerification": "587,543,635,694,424,699"
+    },
+    "#B6326ZI": {
+        "carteCritere": "2,6,8,16,19,21",
+        "carteVerification": "416,483,212,505,317,499"
+    },
+    "#B63AYLP": {
+        "carteCritere": "4,7,9,12,17,20",
+        "carteVerification": "577,355,369,402,395,502"
+    },
+    "#B63BVU3": {
+        "carteCritere": "4,10,14,16,19,21",
+        "carteVerification": "324,633,414,509,696,518"
+    },
+    "#B63ZKJI": {
+        "carteCritere": "2,9,12,14,16,18",
+        "carteVerification": "437,648,256,296,643,594"
+    },
+    "#B65CMP3": {
+        "carteCritere": "7,10,13,16,19,21",
+        "carteVerification": "610,633,382,509,696,518"
+    },
+    "#B65BU9C": {
+        "carteCritere": "6,11,18,19,21,22",
+        "carteVerification": "481,566,220,315,497,485"
+    },
+    "#B63ALFM": {
+        "carteCritere": "4,5,8,18,21,22",
+        "carteVerification": "453,763,212,594,499,487"
+    },
+    "#B64AXYI": {
+        "carteCritere": "3,5,12,17,19,21",
+        "carteVerification": "348,763,697,625,317,499"
+    },
+    "#B6327S2": {
+        "carteCritere": "2,6,9,13,17,22",
+        "carteVerification": "416,483,785,634,541,487"
+    },
+    "#B64CERF": {
+        "carteCritere": "3,9,14,16,18,20",
+        "carteVerification": "662,362,414,372,421,268"
+    },
+    "#B65B1MS": {
+        "carteCritere": "5,12,16,19,21,22",
+        "carteVerification": "758,614,640,233,497,485"
+    },
+    "#B64C99X": {
+        "carteCritere": "3,7,12,18,19,21",
+        "carteVerification": "664,355,319,424,699,523"
+    },
+    "#B638F29": {
+        "carteCritere": "3,9,16,18,19,22",
+        "carteVerification": "564,219,515,424,699,536"
+    },
+    "#B6384HH": {
+        "carteCritere": "3,7,9,13,16,22",
+        "carteVerification": "564,613,219,386,515,536"
+    },
+    "#B64Z5FY": {
+        "carteCritere": "3,8,12,16,20,22",
+        "carteVerification": "390,358,616,643,520,487"
+    },
+    "#B64YVGT": {
+        "carteCritere": "3,7,9,15,16,21",
+        "carteVerification": "631,355,369,406,374,669"
+    },
+    "#B64PR2P": {
+        "carteCritere": "2,5,9,11,16,21",
+        "carteVerification": "224,252,369,461,515,523"
+    },
+    "#B63B3G9": {
+        "carteCritere": "4,9,13,16,19,21",
+        "carteVerification": "577,369,386,374,699,523"
+    },
+    "#B65BFFA": {
+        "carteCritere": "6,8,12,16,19,21",
+        "carteVerification": "483,212,616,643,237,499"
+    },
+    "#B64B6US": {
+        "carteCritere": "3,6,9,12,18,19",
+        "carteVerification": "346,481,646,614,592,751"
+    },
+    "#B64R5SY": {
+        "carteCritere": "2,7,9,12,17,20",
+        "carteVerification": "780,657,648,616,625,520"
+    },
+    "#B63ZDCA": {
+        "carteCritere": "2,7,9,13,16,19",
+        "carteVerification": "437,657,648,797,643,755"
+    },
+    "#B65BT0Y": {
+        "carteCritere": "6,10,13,17,19,21",
+        "carteVerification": "483,385,797,541,317,499"
+    },
+    "#B65GP1S": {
+        "carteCritere": "9,14,16,18,19,21",
+        "carteVerification": "646,322,640,592,315,339"
+    },
+    "#B65AOHC": {
+        "carteCritere": "5,9,12,18,19,22",
+        "carteVerification": "758,646,695,592,751,485"
+    },
+    "#B65BVV1": {
+        "carteCritere": "6,13,16,19,20,22",
+        "carteVerification": "543,386,515,699,502,536"
+    },
+    "#B64RPNZ": {
+        "carteCritere": "2,13,16,18,19,20",
+        "carteVerification": "221,228,509,421,767,268"
+    },
+    "#B632DA7": {
+        "carteCritere": "2,6,10,13,17,21",
+        "carteVerification": "597,486,637,382,482,518"
+    },
+    "#B65CJGC": {
+        "carteCritere": "7,9,13,17,21,22",
+        "carteVerification": "403,782,795,618,497,485"
+    },
+    "#B64XUNO": {
+        "carteCritere": "3,6,18,19,20,22",
+        "carteVerification": "387,481,220,233,516,485"
+    },
+    "#B63TNOI": {
+        "carteCritere": "1,9,13,18,19,21",
+        "carteVerification": "652,648,797,223,237,341"
+    },
+    "#B63YFH6": {
+        "carteCritere": "2,6,13,17,19,21",
+        "carteVerification": "437,483,634,625,317,499"
+    },
+    "#B65APZL": {
+        "carteCritere": "5,9,14,17,19,21",
+        "carteVerification": "252,369,694,395,699,523"
+    },
+    "#B64BEPG": {
+        "carteCritere": "3,7,8,14,16,20",
+        "carteVerification": "346,403,206,596,640,516"
+    },
+    "#B64PT9I": {
+        "carteCritere": "2,5,9,18,21,22",
+        "carteVerification": "780,763,785,594,499,487"
+    },
+    "#B6328BY": {
+        "carteCritere": "2,6,13,16,21,22",
+        "carteVerification": "416,483,634,505,499,487"
+    },
+    "#B63AXX5": {
+        "carteCritere": "4,7,9,14,18,19",
+        "carteVerification": "577,355,369,694,424,699"
+    },
+    "#B63ZFR5": {
+        "carteCritere": "2,7,12,18,19,20",
+        "carteVerification": "587,355,757,424,699,273"
+    },
+    "#B65BVT7": {
+        "carteCritere": "6,14,17,19,20,22",
+        "carteVerification": "540,690,393,696,498,533"
+    },
+    "#B65BTOP": {
+        "carteCritere": "6,10,14,17,19,22",
+        "carteVerification": "543,635,694,395,699,536"
+    },
+    "#B630D7K": {
+        "carteCritere": "1,7,10,16,19,22",
+        "carteVerification": "491,403,381,503,233,485"
+    },
+    "#B6328AC": {
+        "carteCritere": "2,6,11,17,21,22",
+        "carteVerification": "413,481,723,537,497,485"
+    },
+    "#B64PTAA": {
+        "carteCritere": "2,5,9,18,20,22",
+        "carteVerification": "780,763,785,594,520,487"
+    },
+    "#B6382JB": {
+        "carteCritere": "3,5,9,16,19,22",
+        "carteVerification": "562,247,216,509,767,533"
+    },
+    "#B638C6E": {
+        "carteCritere": "3,7,12,18,19,21",
+        "carteVerification": "464,657,697,223,317,499"
+    },
+    "#B64CEHE": {
+        "carteCritere": "3,9,13,18,19,20",
+        "carteVerification": "348,648,775,594,317,743"
+    },
+    "#B630CDI": {
+        "carteCritere": "1,7,8,16,19,22",
+        "carteVerification": "495,405,358,505,237,487"
+    },
+    "#B65AOLG": {
+        "carteCritere": "5,9,12,18,19,22",
+        "carteVerification": "758,646,614,592,751,485"
+    },
+    "#B65BLMI": {
+        "carteCritere": "6,9,13,16,19,21",
+        "carteVerification": "483,648,797,643,237,499"
+    },
+    "#B65C82X": {
+        "carteCritere": "7,8,15,16,21,22",
+        "carteVerification": "613,793,349,374,523,536"
+    },
+    "#B64Z0WE": {
+        "carteCritere": "3,7,12,19,20,22",
+        "carteVerification": "390,657,697,237,520,487"
+    },
+    "#B650XEL": {
+        "carteCritere": "4,5,9,12,16,21",
+        "carteVerification": "338,252,219,402,374,523"
+    },
+    "#B63TSZJ": {
+        "carteCritere": "1,9,12,17,19,20",
+        "carteVerification": "357,362,399,393,767,498"
+    },
+    "#B65AVNO": {
+        "carteCritere": "5,9,12,17,20,22",
+        "carteVerification": "758,782,695,618,516,485"
+    },
+    "#B638F1D": {
+        "carteCritere": "3,9,11,16,18,22",
+        "carteVerification": "564,219,289,515,424,536"
+    },
+    "#B64BQY6": {
+        "carteCritere": "3,5,9,12,16,20",
+        "carteVerification": "348,580,648,616,505,743"
+    },
+    "#B64CEIB": {
+        "carteCritere": "3,9,13,16,18,19",
+        "carteVerification": "662,362,228,372,421,696"
+    },
+    "#B64YVCU": {
+        "carteCritere": "3,7,9,12,17,21",
+        "carteVerification": "390,657,648,616,625,341"
+    },
+    "#B6328D8": {
+        "carteCritere": "2,6,13,17,20,22",
+        "carteVerification": "413,481,795,537,516,485"
+    },
+    "#B63ZKO0": {
+        "carteCritere": "2,9,12,16,18,19",
+        "carteVerification": "434,646,695,640,592,751"
+    },
+    "#B64BASC": {
+        "carteCritere": "3,6,10,18,19,22",
+        "carteVerification": "346,481,381,592,315,485"
+    },
+    "#B65AV4J": {
+        "carteCritere": "5,9,11,17,21,22",
+        "carteVerification": "247,216,458,393,518,533"
+    },
+    "#B64BBAJ": {
+        "carteCritere": "3,6,18,19,20,22",
+        "carteVerification": "662,540,779,696,498,533"
+    },
+    "#B64CBWJ": {
+        "carteCritere": "3,8,11,16,18,21",
+        "carteVerification": "662,790,277,509,421,667"
+    },
+    "#B65CK2P": {
+        "carteCritere": "7,9,13,17,20,22",
+        "carteVerification": "613,219,205,395,502,536"
+    },
+    "#B65BOAT": {
+        "carteCritere": "6,9,13,18,19,22",
+        "carteVerification": "543,219,205,781,770,536"
+    },
+    "#B63YRW9": {
+        "carteCritere": "2,5,9,14,18,20",
+        "carteVerification": "587,445,219,720,424,502"
+    },
+    "#B65AVLH": {
+        "carteCritere": "5,9,14,17,19,22",
+        "carteVerification": "252,219,694,484,699,536"
+    },
+    "#B64QA12": {
+        "carteCritere": "2,7,10,14,16,22",
+        "carteVerification": "780,405,385,598,505,487"
+    },
+    "#B64AYAR": {
+        "carteCritere": "3,5,12,17,19,20",
+        "carteVerification": "662,247,316,393,696,498"
+    },
+    "#B638CEQ": {
+        "carteCritere": "3,7,12,17,19,21",
+        "carteVerification": "464,657,616,541,237,499"
+    },
+    "#B6328DO": {
+        "carteCritere": "2,6,11,16,20,22",
+        "carteVerification": "413,481,723,503,516,485"
+    },
+    "#B65BRS0": {
+        "carteCritere": "6,10,12,18,21,22",
+        "carteVerification": "481,381,695,220,497,485"
+    },
+    "#B65B0IT": {
+        "carteCritere": "5,15,18,19,20,22",
+        "carteVerification": "252,406,424,770,502,536"
+    },
+    "#B64YDI1": {
+        "carteCritere": "3,5,9,11,16,20",
+        "carteVerification": "631,445,369,289,374,502"
+    },
+    "#B65BQ4G": {
+        "carteCritere": "6,10,13,18,19,21",
+        "carteVerification": "481,376,795,220,233,339"
+    },
+    "#B64Z6DW": {
+        "carteCritere": "3,9,12,14,16,18",
+        "carteVerification": "387,646,253,293,503,220"
+    },
+    "#B65BEC4": {
+        "carteCritere": "6,8,18,19,20,22",
+        "carteVerification": "481,206,220,315,516,485"
+    },
+    "#B64XHYA": {
+        "carteCritere": "3,5,12,17,19,20",
+        "carteVerification": "390,763,616,625,237,520"
+    },
+    "#B653AMV": {
+        "carteCritere": "4,7,9,15,16,20",
+        "carteVerification": "335,352,362,347,509,498"
+    },
+    "#B64BTER": {
+        "carteCritere": "3,5,12,18,19,20",
+        "carteVerification": "662,441,754,421,696,268"
+    },
+    "#B63817A": {
+        "carteCritere": "3,5,8,17,19,21",
+        "carteVerification": "464,763,212,541,317,499"
+    },
+    "#B64Q9E9": {
+        "carteCritere": "2,7,10,18,19,20",
+        "carteVerification": "224,613,635,781,770,502"
+    },
+    "#B64QSXX": {
+        "carteCritere": "2,6,9,11,16,21",
+        "carteVerification": "224,490,369,461,374,523"
+    },
+    "#B63YFOU": {
+        "carteCritere": "2,6,17,19,20,22",
+        "carteVerification": "437,483,625,317,520,487"
+    },
+    "#B63Y5RK": {
+        "carteCritere": "2,5,9,17,19,21",
+        "carteVerification": "434,758,646,537,315,497"
+    },
+    "#B64BSEB": {
+        "carteCritere": "3,5,10,13,19,21",
+        "carteVerification": "662,441,637,228,696,667"
+    },
+    "#B65CAEU": {
+        "carteCritere": "7,8,11,17,21,22",
+        "carteVerification": "405,358,568,625,499,487"
+    },
+    "#B6388DI": {
+        "carteCritere": "3,5,10,12,17,20",
+        "carteVerification": "464,580,378,697,541,520"
+    },
+    "#B632816": {
+        "carteCritere": "2,6,9,13,16,22",
+        "carteVerification": "416,483,785,634,505,487"
+    },
+    "#B6533BE": {
+        "carteCritere": "4,7,8,15,19,20",
+        "carteVerification": "677,657,212,663,317,520"
+    },
+    "#B6327A4": {
+        "carteCritere": "2,6,9,11,18,22",
+        "carteVerification": "413,481,782,723,220,485"
+    },
+    "#B64CAD3": {
+        "carteCritere": "3,7,12,16,20,22",
+        "carteVerification": "662,352,399,372,498,533"
+    },
+    "#B63Z49T": {
+        "carteCritere": "2,6,10,14,17,21",
+        "carteVerification": "587,490,639,694,484,523"
+    },
+    "#B64QRVO": {
+        "carteCritere": "2,6,9,13,18,19",
+        "carteVerification": "778,532,646,771,220,233"
+    },
+    "#B65AVQM": {
+        "carteCritere": "5,9,12,17,20,22",
+        "carteVerification": "763,785,616,625,520,487"
+    },
+    "#B64BEZ3": {
+        "carteCritere": "3,7,9,13,14,18",
+        "carteVerification": "662,610,362,228,414,421"
+    },
+    "#B64RDWD": {
+        "carteCritere": "2,8,14,18,21,22",
+        "carteVerification": "224,793,418,781,523,536"
+    },
+    "#B65AJB8": {
+        "carteCritere": "5,8,13,16,19,21",
+        "carteVerification": "758,206,795,640,233,497"
+    },
+    "#B63ZEPF": {
+        "carteCritere": "2,7,10,14,17,21",
+        "carteVerification": "585,352,637,718,482,518"
+    },
+    "#B653RZI": {
+        "carteCritere": "4,9,13,16,19,21",
+        "carteVerification": "677,648,775,643,237,341"
+    },
+    "#B64YC6Y": {
+        "carteCritere": "3,5,9,11,17,21",
+        "carteVerification": "390,580,648,726,625,499"
+    },
+    "#B65CK5O": {
+        "carteCritere": "7,9,11,16,20,22",
+        "carteVerification": "403,782,723,640,516,485"
+    },
+    "#B6328AU": {
+        "carteCritere": "2,6,13,17,21,22",
+        "carteVerification": "416,483,634,541,499,487"
+    },
+    "#B653PV0": {
+        "carteCritere": "4,9,15,16,18,21",
+        "carteVerification": "670,646,661,640,592,339"
+    },
+    "#B64Z6RO": {
+        "carteCritere": "3,9,15,16,18,21",
+        "carteVerification": "387,646,609,640,592,339"
+    },
+    "#B65FZLN": {
+        "carteCritere": "7,10,11,14,17,19",
+        "carteVerification": "352,637,287,690,482,696"
+    },
+    "#B63YEE0": {
+        "carteCritere": "2,6,9,19,20,22",
+        "carteVerification": "434,481,646,751,516,485"
+    },
+    "#B64BEHC": {
+        "carteCritere": "3,7,8,14,17,21",
+        "carteVerification": "346,403,206,596,618,497"
+    },
+    "#B638F28": {
+        "carteCritere": "3,9,13,16,18,22",
+        "carteVerification": "462,782,795,503,592,485"
+    },
+    "#B65BK60": {
+        "carteCritere": "6,9,15,18,19,20",
+        "carteVerification": "481,646,609,592,233,741"
+    },
+    "#B63YA0N": {
+        "carteCritere": "2,5,17,19,21,22",
+        "carteVerification": "585,247,393,696,518,533"
+    },
+    "#B630J6O": {
+        "carteCritere": "1,9,11,18,19,22",
+        "carteVerification": "491,782,566,592,233,485"
+    },
+    "#B64YZ52": {
+        "carteCritere": "3,7,10,15,17,20",
+        "carteVerification": "390,657,385,663,541,520"
+    },
+    "#B6328D9": {
+        "carteCritere": "2,6,13,17,19,20",
+        "carteVerification": "599,543,205,484,770,502"
+    },
+    "#B64AXF4": {
+        "carteCritere": "3,5,10,14,18,19",
+        "carteVerification": "346,758,381,322,592,315"
+    },
+    "#B65BEAX": {
+        "carteCritere": "6,8,12,18,20,22",
+        "carteVerification": "543,793,319,781,502,536"
+    },
+    "#B63TXXB": {
+        "carteCritere": "1,10,12,18,19,21",
+        "carteVerification": "357,637,399,779,767,667"
+    },
+    "#B653MTS": {
+        "carteCritere": "4,8,16,18,19,21",
+        "carteVerification": "670,356,503,592,751,497"
+    },
+    "#B651PHH": {
+        "carteCritere": "4,7,8,18,20,22",
+        "carteVerification": "338,613,793,781,502,536"
+    },
+    "#B64CFDA": {
+        "carteCritere": "3,9,16,19,21,22",
+        "carteVerification": "348,648,643,755,499,487"
+    },
+    "#B632GJ3": {
+        "carteCritere": "2,7,10,14,20,22",
+        "carteVerification": "597,352,637,690,498,533"
+    },
+    "#B63AO0D": {
+        "carteCritere": "4,7,9,18,21,22",
+        "carteVerification": "577,613,369,424,523,536"
+    },
+    "#B63284Z": {
+        "carteCritere": "2,6,10,16,21,22",
+        "carteVerification": "597,540,633,509,518,533"
+    },
+    "#B64Q6VP": {
+        "carteCritere": "2,7,8,12,17,19",
+        "carteVerification": "224,613,793,402,395,770"
+    },
+    "#B63YEX3": {
+        "carteCritere": "2,6,10,13,17,19",
+        "carteVerification": "585,540,633,382,393,696"
+    },
+    "#B64QU9D": {
+        "carteCritere": "2,6,9,16,19,20",
+        "carteVerification": "224,490,369,374,770,502"
+    },
+    "#B65FQ8Q": {
+        "carteCritere": "7,9,11,16,19,20",
+        "carteVerification": "657,648,739,505,317,743"
+    },
+    "#B63RWSK": {
+        "carteCritere": "1,6,12,18,19,20",
+        "carteVerification": "650,481,614,220,233,516"
+    },
+    "#B65ASH4": {
+        "carteCritere": "5,9,13,19,20,22",
+        "carteVerification": "758,646,795,751,516,485"
+    },
+    "#B6328EC": {
+        "carteCritere": "2,6,13,16,20,22",
+        "carteVerification": "413,481,795,503,516,485"
+    },
+    "#B65AVXX": {
+        "carteCritere": "5,9,12,16,19,22",
+        "carteVerification": "252,219,319,374,699,536"
+    },
+    "#B64XO5C": {
+        "carteCritere": "3,6,8,12,16,21",
+        "carteVerification": "387,481,356,614,640,497"
+    },
+    "#B64YGTK": {
+        "carteCritere": "3,5,10,16,19,20",
+        "carteVerification": "387,578,381,503,233,516"
+    },
+    "#B63ANOX": {
+        "carteCritere": "4,7,8,13,21,22",
+        "carteVerification": "577,613,793,386,523,536"
+    },
+    "#B65EJDC": {
+        "carteCritere": "6,8,14,18,19,21",
+        "carteVerification": "532,356,596,592,233,497"
+    },
+    "#B64PQUN": {
+        "carteCritere": "2,5,9,18,19,20",
+        "carteVerification": "221,247,362,421,767,498"
+    },
+    "#B64YWJB": {
+        "carteCritere": "3,7,9,13,16,20",
+        "carteVerification": "629,352,362,202,372,498"
+    },
+    "#B64AXKP": {
+        "carteCritere": "3,5,10,14,17,19",
+        "carteVerification": "664,252,635,694,395,699"
+    },
+    "#B65CNAS": {
+        "carteCritere": "7,10,13,16,19,20",
+        "carteVerification": "403,381,632,503,315,516"
+    },
+    "#B64AXYT": {
+        "carteCritere": "3,5,12,19,21,22",
+        "carteVerification": "664,252,402,257,523,536"
+    },
+    "#B653EQZ": {
+        "carteCritere": "4,7,10,12,19,20",
+        "carteVerification": "335,352,633,316,696,498"
+    },
+    "#B63YINF": {
+        "carteCritere": "2,7,8,14,17,20",
+        "carteVerification": "585,610,790,718,393,498"
+    },
+    "#B65EUO9": {
+        "carteCritere": "6,9,11,18,19,20",
+        "carteVerification": "490,219,289,424,770,502"
+    },
+    "#B64C62D": {
+        "carteCritere": "3,7,9,13,16,19",
+        "carteVerification": "664,355,369,386,374,257"
+    },
+    "#B63YF6B": {
+        "carteCritere": "2,6,10,16,19,22",
+        "carteVerification": "585,540,633,372,696,533"
+    },
+    "#B63YKG7": {
+        "carteCritere": "2,7,10,18,19,20",
+        "carteVerification": "585,610,633,779,696,498"
+    },
+    "#B63AUP3": {
+        "carteCritere": "4,5,13,18,19,22",
+        "carteVerification": "573,441,382,421,696,533"
+    },
+    "#B63RWM8": {
+        "carteCritere": "1,6,13,18,21,22",
+        "carteVerification": "650,481,632,220,497,485"
+    },
+    "#B64B8TB": {
+        "carteCritere": "3,6,9,13,19,20",
+        "carteVerification": "662,540,362,228,696,268"
+    },
+    "#B63RXJP": {
+        "carteCritere": "1,6,13,17,21,22",
+        "carteVerification": "359,543,386,484,523,536"
+    },
+    "#B65ENJ6": {
+        "carteCritere": "6,9,12,18,19,21",
+        "carteVerification": "534,648,697,594,317,341"
+    },
+    "#B632F03": {
+        "carteCritere": "2,7,9,18,19,22",
+        "carteVerification": "597,352,216,779,696,533"
+    },
+    "#B64XVVG": {
+        "carteCritere": "3,6,17,19,20,22",
+        "carteVerification": "387,481,618,233,516,485"
+    },
+    "#B6510ZP": {
+        "carteCritere": "4,5,12,16,19,20",
+        "carteVerification": "338,252,319,515,699,502"
+    },
+    "#B65BVV0": {
+        "carteCritere": "6,13,16,19,20,22",
+        "carteVerification": "481,632,640,315,516,485"
+    },
+    "#B65ATUV": {
+        "carteCritere": "5,9,11,18,20,22",
+        "carteVerification": "247,216,458,421,498,533"
+    },
+    "#B65AV3X": {
+        "carteCritere": "5,9,11,17,21,22",
+        "carteVerification": "252,219,289,395,523,536"
+    },
+    "#B63BTIH": {
+        "carteCritere": "4,7,13,18,19,21",
+        "carteVerification": "327,355,386,424,699,523"
+    },
+    "#B64XOCG": {
+        "carteCritere": "3,6,8,12,17,20",
+        "carteVerification": "387,481,356,695,618,516"
+    },
+    "#B64Q2EU": {
+        "carteCritere": "2,6,10,17,19,22",
+        "carteVerification": "780,483,385,625,237,487"
+    },
+    "#B65DJTW": {
+        "carteCritere": "5,9,13,18,19,20",
+        "carteVerification": "578,646,632,592,315,741"
+    },
+    "#B65CJG2": {
+        "carteCritere": "7,9,13,17,21,22",
+        "carteVerification": "405,785,634,625,499,487"
+    },
+    "#B65CK0V": {
+        "carteCritere": "7,9,13,17,20,22",
+        "carteVerification": "610,216,382,393,498,533"
+    },
+    "#B64CJSI": {
+        "carteCritere": "3,12,16,19,21,22",
+        "carteVerification": "348,616,643,755,499,487"
+    },
+    "#B64PPPH": {
+        "carteCritere": "2,5,8,13,16,20",
+        "carteVerification": "224,252,653,205,374,502"
+    },
+    "#B64YHUV": {
+        "carteCritere": "3,5,13,16,19,21",
+        "carteVerification": "629,441,228,509,767,667"
+    },
+    "#B65GPGN": {
+        "carteCritere": "9,12,18,19,20,22",
+        "carteVerification": "362,316,421,255,498,533"
+    },
+    "#B65AJBO": {
+        "carteCritere": "5,8,15,16,21,22",
+        "carteVerification": "758,206,609,640,497,485"
+    },
+    "#B64CE3E": {
+        "carteCritere": "3,9,15,16,18,20",
+        "carteVerification": "348,648,331,505,223,743"
+    },
+    "#B651ST5": {
+        "carteCritere": "4,7,9,13,18,19",
+        "carteVerification": "338,613,369,232,424,770"
+    },
+    "#B64BSDJ": {
+        "carteCritere": "3,5,10,12,17,21",
+        "carteVerification": "662,441,637,316,482,518"
+    },
+    "#B64RA27": {
+        "carteCritere": "2,7,13,18,19,21",
+        "carteVerification": "221,352,228,421,767,667"
+    },
+    "#B6328B1": {
+        "carteCritere": "2,6,13,17,19,21",
+        "carteVerification": "599,543,205,484,770,523"
+    },
+    "#B63ALOS": {
+        "carteCritere": "4,5,8,13,17,19",
+        "carteVerification": "447,758,206,632,618,315"
+    },
+    "#B64Q1EQ": {
+        "carteCritere": "2,6,9,19,20,22",
+        "carteVerification": "780,483,785,237,520,487"
+    },
+    "#B64YPVC": {
+        "carteCritere": "3,6,12,16,19,20",
+        "carteVerification": "387,532,253,503,233,741"
+    },
+    "#B65G3ZA": {
+        "carteCritere": "7,10,15,16,20,22",
+        "carteVerification": "657,385,663,505,520,487"
+    },
+    "#B63Y822": {
+        "carteCritere": "2,5,9,16,19,20",
+        "carteVerification": "437,763,648,505,317,743"
+    },
+    "#B63Z699": {
+        "carteCritere": "2,6,17,19,20,22",
+        "carteVerification": "587,490,395,699,502,536"
+    },
+    "#B64CE71": {
+        "carteCritere": "3,9,12,16,18,21",
+        "carteVerification": "664,369,757,515,424,669"
+    },
+    "#B63BS06": {
+        "carteCritere": "4,5,13,18,19,21",
+        "carteVerification": "691,580,634,594,317,499"
+    },
+    "#B63AZ6J": {
+        "carteCritere": "4,7,9,12,21,22",
+        "carteVerification": "573,352,216,316,518,533"
+    },
+    "#B63Z4A5": {
+        "carteCritere": "2,6,10,12,19,21",
+        "carteVerification": "587,490,639,757,699,669"
+    },
+    "#B65FQ8R": {
+        "carteCritere": "7,9,11,16,19,20",
+        "carteVerification": "352,362,277,509,767,268"
+    },
+    "#B65ARNA": {
+        "carteCritere": "5,9,12,17,19,20",
+        "carteVerification": "763,648,697,625,317,520"
+    },
+    "#B64ZF9R": {
+        "carteCritere": "3,12,16,19,21,22",
+        "carteVerification": "629,316,372,255,518,533"
+    },
+    "#B63TOAT": {
+        "carteCritere": "1,9,15,18,19,21",
+        "carteVerification": "359,369,406,424,770,669"
+    },
+    "#B64QX60": {
+        "carteCritere": "2,6,10,15,17,20",
+        "carteVerification": "778,532,381,609,537,516"
+    },
+    "#B64CJEV": {
+        "carteCritere": "3,13,16,18,19,21",
+        "carteVerification": "662,228,509,421,696,667"
+    },
+    "#B65403N": {
+        "carteCritere": "4,12,16,19,21,22",
+        "carteVerification": "335,316,372,255,518,533"
+    },
+    "#B65FR2Q": {
+        "carteCritere": "7,9,11,19,20,22",
+        "carteVerification": "657,648,568,755,520,487"
+    },
+    "#B65CA44": {
+        "carteCritere": "7,8,14,18,21,22",
+        "carteVerification": "403,356,596,592,497,485"
+    },
+    "#B63YWY5": {
+        "carteCritere": "2,6,8,12,16,20",
+        "carteVerification": "587,490,793,757,515,273"
+    },
+    "#B64XPN2": {
+        "carteCritere": "3,6,9,11,15,18",
+        "carteVerification": "390,483,648,739,611,594"
+    },
+    "#B65BVKF": {
+        "carteCritere": "6,15,16,19,21,22",
+        "carteVerification": "540,404,372,767,518,533"
+    },
+    "#B63ZMUL": {
+        "carteCritere": "2,9,16,19,20,22",
+        "carteVerification": "587,369,374,257,502,536"
+    },
+    "#B6382XV": {
+        "carteCritere": "3,5,12,16,19,21",
+        "carteVerification": "562,247,399,509,767,518"
+    },
+    "#B64B7KJ": {
+        "carteCritere": "3,6,9,13,19,21",
+        "carteVerification": "662,540,362,382,255,518"
+    },
+    "#B63Y4TN": {
+        "carteCritere": "2,5,9,11,14,18",
+        "carteVerification": "585,247,362,277,690,421"
+    },
+    "#B64ZEFG": {
+        "carteCritere": "3,13,16,18,19,21",
+        "carteVerification": "387,795,503,592,233,497"
+    },
+    "#B63YFOK": {
+        "carteCritere": "2,6,13,17,19,20",
+        "carteVerification": "434,481,632,618,315,516"
+    },
+    "#B65CA41": {
+        "carteCritere": "7,8,11,18,21,22",
+        "carteVerification": "613,653,461,424,523,536"
+    },
+    "#B64Z6EU": {
+        "carteCritere": "3,9,12,16,18,19",
+        "carteVerification": "390,648,256,505,223,237"
+    },
+    "#B6382UQ": {
+        "carteCritere": "3,5,12,17,19,21",
+        "carteVerification": "464,763,697,541,317,499"
+    },
+    "#B64AVYB": {
+        "carteCritere": "3,5,8,14,17,20",
+        "carteVerification": "662,247,790,690,393,498"
+    },
+    "#B64RI6S": {
+        "carteCritere": "2,9,15,18,20,22",
+        "carteVerification": "778,646,609,220,516,485"
+    },
+    "#B65B20J": {
+        "carteCritere": "5,12,16,19,20,22",
+        "carteVerification": "247,316,372,696,498,533"
+    },
+    "#B63ZCBI": {
+        "carteCritere": "2,7,9,12,17,20",
+        "carteVerification": "437,657,648,697,625,520"
+    },
+    "#B6518IO": {
+        "carteCritere": "4,6,8,15,18,20",
+        "carteVerification": "670,481,206,661,220,516"
+    },
+    "#B63ATQA": {
+        "carteCritere": "4,5,9,12,21,22",
+        "carteVerification": "453,580,785,616,499,487"
+    },
+    "#B65BUI4": {
+        "carteCritere": "6,15,18,19,20,22",
+        "carteVerification": "481,609,592,233,516,485"
+    },
+    "#B64Z3FA": {
+        "carteCritere": "3,8,15,16,19,21",
+        "carteVerification": "390,212,611,643,237,499"
+    },
+    "#B63Y9I0": {
+        "carteCritere": "2,5,18,19,20,22",
+        "carteVerification": "434,758,592,315,516,485"
+    },
+    "#B64Z7A2": {
+        "carteCritere": "3,9,15,16,18,20",
+        "carteVerification": "390,648,663,643,594,743"
+    },
+    "#B64Q09R": {
+        "carteCritere": "2,6,9,15,18,21",
+        "carteVerification": "221,540,362,404,421,667"
+    },
+    "#B638796": {
+        "carteCritere": "3,5,9,18,19,22",
+        "carteVerification": "464,580,785,594,317,487"
+    },
+    "#B63ZK2D": {
+        "carteCritere": "2,9,15,16,18,21",
+        "carteVerification": "587,369,349,515,781,669"
+    },
+    "#B63AULL": {
+        "carteCritere": "4,5,12,18,21,22",
+        "carteVerification": "577,445,319,424,523,536"
+    },
+    "#B64Q9PX": {
+        "carteCritere": "2,7,10,16,19,21",
+        "carteVerification": "224,613,635,515,770,523"
+    },
+    "#B64XUSM": {
+        "carteCritere": "3,6,12,18,19,22",
+        "carteVerification": "390,483,697,594,755,487"
+    },
+    "#B65ALF5": {
+        "carteCritere": "5,8,14,18,21,22",
+        "carteVerification": "252,653,694,424,523,536"
+    },
+    "#B651CWC": {
+        "carteCritere": "4,6,9,18,19,20",
+        "carteVerification": "670,481,646,592,233,516"
+    },
+    "#B651CKR": {
+        "carteCritere": "4,6,9,13,15,18",
+        "carteVerification": "335,540,362,228,347,421"
+    },
+    "#B64QXN8": {
+        "carteCritere": "2,6,10,19,20,22",
+        "carteVerification": "778,532,381,233,516,485"
+    },
+    "#B65BU9A": {
+        "carteCritere": "6,11,18,19,21,22",
+        "carteVerification": "483,726,223,317,499,487"
+    },
+    "#B63ZHZ5": {
+        "carteCritere": "2,8,12,16,18,20",
+        "carteVerification": "587,793,757,515,424,273"
+    },
+    "#B63YXN3": {
+        "carteCritere": "2,6,8,18,19,22",
+        "carteVerification": "585,486,651,421,696,533"
+    },
+    "#B653216": {
+        "carteCritere": "4,7,8,12,18,19",
+        "carteVerification": "677,657,212,697,594,317"
+    },
+    "#B64AYEJ": {
+        "carteCritere": "3,5,12,19,20,22",
+        "carteVerification": "662,247,399,255,498,533"
+    },
+    "#B64CIM8": {
+        "carteCritere": "3,10,12,16,19,20",
+        "carteVerification": "346,376,253,503,315,741"
+    },
+    "#B65ALUR": {
+        "carteCritere": "5,8,13,16,20,22",
+        "carteVerification": "247,651,382,372,498,533"
+    },
+    "#B65BLJW": {
+        "carteCritere": "6,9,11,19,21,22",
+        "carteVerification": "481,646,566,751,497,485"
+    },
+    "#B65BLMJ": {
+        "carteCritere": "6,9,15,16,19,21",
+        "carteVerification": "540,362,404,372,767,518"
+    },
+    "#B63ZKKP": {
+        "carteCritere": "2,9,12,16,18,19",
+        "carteVerification": "587,369,757,374,424,699"
+    },
+    "#B64ZEIZ": {
+        "carteCritere": "3,12,16,18,19,20",
+        "carteVerification": "629,754,509,421,767,268"
+    },
+    "#B65DWFN": {
+        "carteCritere": "5,10,14,18,19,21",
+        "carteVerification": "441,633,718,779,696,518"
+    },
+    "#B65GSM8": {
+        "carteCritere": "9,12,16,19,21,22",
+        "carteVerification": "646,695,640,751,497,485"
+    },
+    "#B65FGF9": {
+        "carteCritere": "7,8,14,18,21,22",
+        "carteVerification": "355,653,418,424,523,536"
+    },
+    "#B64RA1Y": {
+        "carteCritere": "2,7,12,18,19,21",
+        "carteVerification": "780,657,616,594,237,499"
+    },
+    "#B63288F": {
+        "carteCritere": "2,6,13,18,19,20",
+        "carteVerification": "597,540,382,779,696,498"
+    },
+    "#B64YGKW": {
+        "carteCritere": "3,5,10,15,16,21",
+        "carteVerification": "387,578,381,609,503,497"
+    },
+    "#B64QWDP": {
+        "carteCritere": "2,6,10,13,18,21",
+        "carteVerification": "224,490,635,205,781,523"
+    },
+    "#B653CJF": {
+        "carteCritere": "4,7,9,17,19,22",
+        "carteVerification": "335,352,216,482,696,733"
+    },
+    "#B64RQIU": {
+        "carteCritere": "2,12,16,19,21,22",
+        "carteVerification": "780,616,643,755,499,487"
+    },
+    "#B651V6L": {
+        "carteCritere": "4,7,9,18,19,21",
+        "carteVerification": "338,613,219,424,699,523"
+    },
+    "#B63ZPPX": {
+        "carteCritere": "2,12,16,19,20,22",
+        "carteVerification": "587,319,374,257,502,536"
+    },
+    "#B63B02N": {
+        "carteCritere": "4,7,12,18,21,22",
+        "carteVerification": "573,352,399,421,518,533"
+    },
+    "#B63ZJ15": {
+        "carteCritere": "2,8,12,18,19,22",
+        "carteVerification": "587,653,319,424,257,536"
+    },
+    "#B638CKR": {
+        "carteCritere": "3,7,12,17,19,20",
+        "carteVerification": "562,352,399,482,767,498"
+    },
+    "#B64QWYW": {
+        "carteCritere": "2,6,10,15,16,21",
+        "carteVerification": "778,532,381,609,503,497"
+    },
+    "#B64Q62F": {
+        "carteCritere": "2,7,8,18,21,22",
+        "carteVerification": "221,610,790,421,518,533"
+    },
+    "#B64BAZ5": {
+        "carteCritere": "3,6,10,17,19,22",
+        "carteVerification": "664,543,635,395,699,536"
+    },
+    "#B65CI5N": {
+        "carteCritere": "7,9,13,18,20,22",
+        "carteVerification": "610,216,202,421,498,533"
+    },
+    "#B64BUGT": {
+        "carteCritere": "3,5,16,19,20,22",
+        "carteVerification": "664,445,374,699,502,536"
+    },
+    "#B65DYMS": {
+        "carteCritere": "5,10,14,16,19,21",
+        "carteVerification": "578,381,293,503,315,497"
+    },
+    "#B632GKQ": {
+        "carteCritere": "2,7,13,18,21,22",
+        "carteVerification": "416,657,634,223,499,487"
+    },
+    "#B64XFZ0": {
+        "carteCritere": "3,5,9,12,17,21",
+        "carteVerification": "387,758,646,614,618,339"
+    },
+    "#B65CI3A": {
+        "carteCritere": "7,9,11,18,19,20",
+        "carteVerification": "405,785,568,594,317,520"
+    },
+    "#B64REIB": {
+        "carteCritere": "2,8,13,16,19,21",
+        "carteVerification": "221,790,202,372,767,518"
+    },
+    "#B63RSSV": {
+        "carteCritere": "1,6,9,15,17,19",
+        "carteVerification": "357,540,362,404,393,767"
+    },
+    "#B64AXQY": {
+        "carteCritere": "3,5,14,18,19,21",
+        "carteVerification": "348,763,325,594,317,499"
+    },
+    "#B63ZFQL": {
+        "carteCritere": "2,7,12,18,19,21",
+        "carteVerification": "587,355,757,424,699,669"
+    },
+    "#B64R3NS": {
+        "carteCritere": "2,7,9,15,18,21",
+        "carteVerification": "778,654,646,329,220,497"
+    },
+    "#B638C7N": {
+        "carteCritere": "3,7,12,18,19,22",
+        "carteVerification": "562,352,316,779,696,533"
+    },
+    "#B64XI1F": {
+        "carteCritere": "3,5,12,19,20,22",
+        "carteVerification": "629,247,316,255,498,533"
+    },
+    "#B65AVVX": {
+        "carteCritere": "5,9,11,16,20,22",
+        "carteVerification": "252,219,289,374,502,536"
+    },
+    "#B65FWER": {
+        "carteCritere": "7,10,14,18,19,22",
+        "carteVerification": "352,637,690,779,696,533"
+    },
+    "#B63B44V": {
+        "carteCritere": "4,11,18,19,21,22",
+        "carteVerification": "573,458,779,696,518,533"
+    },
+    "#B63Y82V": {
+        "carteCritere": "2,5,9,16,19,20",
+        "carteVerification": "585,247,362,372,696,498"
+    },
+    "#B651GPL": {
+        "carteCritere": "4,6,9,12,16,21",
+        "carteVerification": "338,543,219,402,374,523"
+    },
+    "#B653MWY": {
+        "carteCritere": "4,8,18,19,20,22",
+        "carteVerification": "677,358,594,755,520,487"
+    },
+    "#B64Q3G5": {
+        "carteCritere": "2,6,13,16,19,20",
+        "carteVerification": "224,543,205,374,770,502"
+    },
+    "#B651AZH": {
+        "carteCritere": "4,6,8,12,17,20",
+        "carteVerification": "338,543,653,402,395,502"
+    },
+    "#B64RIKS": {
+        "carteCritere": "2,9,12,18,19,20",
+        "carteVerification": "778,646,253,592,233,741"
+    },
+    "#B63RWSJ": {
+        "carteCritere": "1,6,13,18,20,22",
+        "carteVerification": "357,540,382,779,498,533"
+    },
+    "#B650W37": {
+        "carteCritere": "4,5,9,12,19,20",
+        "carteVerification": "335,247,362,316,255,498"
+    },
+    "#B63820I": {
+        "carteCritere": "3,5,9,11,17,22",
+        "carteVerification": "464,763,785,726,541,487"
+    },
+    "#B63Z0BP": {
+        "carteCritere": "2,6,9,18,19,20",
+        "carteVerification": "587,490,369,424,699,502"
+    },
+    "#B64Y1JI": {
+        "carteCritere": "3,7,10,16,19,21",
+        "carteVerification": "390,405,385,505,237,499"
+    },
+    "#B63AT7H": {
+        "carteCritere": "4,5,9,17,19,20",
+        "carteVerification": "577,445,369,395,699,273"
+    },
+    "#B63RYC2": {
+        "carteCritere": "1,6,13,17,20,22",
+        "carteVerification": "652,483,634,541,520,487"
+    },
+    "#B652CWY": {
+        "carteCritere": "4,5,9,12,14,18",
+        "carteVerification": "677,580,648,256,296,223"
+    },
+    "#B63BVW5": {
+        "carteCritere": "4,13,16,18,19,21",
+        "carteVerification": "327,386,515,424,699,523"
+    },
+    "#B64C68I": {
+        "carteCritere": "3,7,9,12,19,20",
+        "carteVerification": "348,657,648,616,755,520"
+    },
+    "#B63TO8R": {
+        "carteCritere": "1,9,13,16,18,21",
+        "carteVerification": "357,362,228,509,421,667"
+    },
+    "#B65AV8N": {
+        "carteCritere": "5,9,15,19,21,22",
+        "carteVerification": "247,216,404,767,518,533"
+    },
+    "#B650XKM": {
+        "carteCritere": "4,5,9,12,17,19",
+        "carteVerification": "677,763,785,697,541,317"
+    },
+    "#B63ZKHK": {
+        "carteCritere": "2,9,11,14,16,18",
+        "carteVerification": "434,646,737,322,640,592"
+    },
+    "#B63ZKSM": {
+        "carteCritere": "2,9,14,16,18,20",
+        "carteVerification": "437,648,296,643,594,743"
+    },
+    "#B64CDWZ": {
+        "carteCritere": "3,9,12,15,16,18",
+        "carteVerification": "662,362,754,684,509,779"
+    },
+    "#B65CJJR": {
+        "carteCritere": "7,9,12,16,21,22",
+        "carteVerification": "610,216,399,372,518,533"
+    },
+    "#B63288M": {
+        "carteCritere": "2,6,18,19,20,22",
+        "carteVerification": "416,483,223,317,520,487"
+    },
+    "#B64C0J0": {
+        "carteCritere": "3,7,8,13,18,20",
+        "carteVerification": "346,654,206,771,592,741"
+    },
+    "#B651AZ8": {
+        "carteCritere": "4,6,8,12,17,20",
+        "carteVerification": "670,481,356,695,618,516"
+    },
+    "#B65B0EW": {
+        "carteCritere": "5,14,18,19,21,22",
+        "carteVerification": "758,322,592,315,497,485"
+    },
+    "#B64XQSH": {
+        "carteCritere": "3,6,9,16,19,21",
+        "carteVerification": "631,543,369,515,770,669"
+    },
+    "#B65BS0Q": {
+        "carteCritere": "6,10,12,18,20,22",
+        "carteVerification": "483,385,697,223,520,487"
+    },
+    "#B63Z2VI": {
+        "carteCritere": "2,6,9,15,18,22",
+        "carteVerification": "437,534,785,663,594,487"
+    },
+    "#B65AJC5": {
+        "carteCritere": "5,8,14,16,21,22",
+        "carteVerification": "252,793,694,374,523,536"
+    },
+    "#B63ZK1K": {
+        "carteCritere": "2,9,13,18,19,21",
+        "carteVerification": "434,646,771,220,315,339"
+    },
+    "#B638F1Z": {
+        "carteCritere": "3,9,13,16,18,22",
+        "carteVerification": "562,216,382,509,421,533"
+    },
+    "#B64XPGP": {
+        "carteCritere": "3,6,9,18,19,21",
+        "carteVerification": "631,543,369,424,770,523"
+    },
+    "#B65AY20": {
+        "carteCritere": "5,10,12,18,19,21",
+        "carteVerification": "758,381,614,220,315,497"
+    },
+    "#B64YPSV": {
+        "carteCritere": "3,6,12,16,19,21",
+        "carteVerification": "629,486,754,509,767,667"
+    },
+    "#B64BQ5R": {
+        "carteCritere": "3,5,9,17,19,20",
+        "carteVerification": "662,441,362,393,696,498"
+    },
+    "#B651D9R": {
+        "carteCritere": "4,6,9,13,16,21",
+        "carteVerification": "335,540,362,202,509,518"
+    },
+    "#B632GLO": {
+        "carteCritere": "2,7,13,18,20,22",
+        "carteVerification": "413,654,795,220,516,485"
+    },
+    "#B64BQ32": {
+        "carteCritere": "3,5,9,14,17,20",
+        "carteVerification": "348,580,648,325,541,520"
+    },
+    "#B64B8J2": {
+        "carteCritere": "3,6,9,13,17,19",
+        "carteVerification": "348,483,648,634,541,317"
+    },
+    "#B64CFCH": {
+        "carteCritere": "3,9,12,16,19,21",
+        "carteVerification": "664,369,402,374,257,523"
+    },
+    "#B65BH37": {
+        "carteCritere": "6,8,12,18,20,22",
+        "carteVerification": "540,651,316,421,498,533"
+    },
+    "#B63Y54H": {
+        "carteCritere": "2,5,9,12,18,19",
+        "carteVerification": "587,252,369,757,424,699"
+    },
+    "#B64Z6P3": {
+        "carteCritere": "3,9,13,18,19,21",
+        "carteVerification": "629,362,202,421,255,518"
+    },
+    "#B64Q95L": {
+        "carteCritere": "2,7,10,18,21,22",
+        "carteVerification": "224,613,635,781,523,536"
+    },
+    "#B63AXMI": {
+        "carteCritere": "4,7,9,13,18,22",
+        "carteVerification": "453,657,648,634,223,487"
+    },
+    "#B63ZP34": {
+        "carteCritere": "2,12,16,18,19,22",
+        "carteVerification": "434,695,640,592,751,485"
+    },
+    "#B65AQ3Z": {
+        "carteCritere": "5,9,12,16,19,21",
+        "carteVerification": "247,362,316,372,696,518"
+    },
+    "#B651ECS": {
+        "carteCritere": "4,6,9,12,19,20",
+        "carteVerification": "670,481,646,253,233,741"
+    },
+    "#B64CES8": {
+        "carteCritere": "3,9,14,16,18,20",
+        "carteVerification": "346,646,322,640,592,741"
+    },
+    "#B64R9IC": {
+        "carteCritere": "2,7,10,15,17,20",
+        "carteVerification": "778,654,381,329,537,516"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "#A435O2": {
+        "carteCritere": "3,9,13,17",
+        "carteVerification": "464,217,634,528"
+    },
+    "#A4BYVQ": {
+        "carteCritere": "7,9,15,17",
+        "carteVerification": "657,785,611,625"
+    },
+    "#A47EFH": {
+        "carteCritere": "3,6,14,17",
+        "carteVerification": "664,490,694,395"
+    },
+    "#A4B255": {
+        "carteCritere": "6,10,11,15",
+        "carteVerification": "543,639,289,406"
+    },
+    "#A4125I": {
+        "carteCritere": "2,7,13,15",
+        "carteVerification": "416,657,775,663"
+    },
+    "#A4BY0V": {
+        "carteCritere": "7,8,11,17",
+        "carteVerification": "352,651,287,393"
+    },
+    "#A4BYO3": {
+        "carteCritere": "7,9,14,17",
+        "carteVerification": "352,362,414,393"
+    }
+}
