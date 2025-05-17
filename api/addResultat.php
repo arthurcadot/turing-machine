@@ -1,5 +1,5 @@
 <?php
-$file = "../assets/js/joueur.json";
+$file = "/assets/js/joueur.json";
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     header("Content-Type: application/json"); // S'assurer que la réponse est bien en JSON

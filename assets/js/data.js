@@ -1,7 +1,7 @@
 class Data {
     static async getId() {
         try {
-            const response = await fetch(`/turingmachine/assets/js/joueur.json?t=${new Date().getTime()}`);
+            const response = await fetch(`/assets/js/joueur.json?t=${new Date().getTime()}`);
             const data = await response.json();
     
             return (data.joueur || []).map(j => j.id);
@@ -13,7 +13,7 @@ class Data {
 
     static async getPseudos() {
         try {
-            const response = await fetch(`/turingmachine/assets/js/joueur.json?t=${new Date().getTime()}`);
+            const response = await fetch(`/assets/js/joueur.json?t=${new Date().getTime()}`);
             const data = await response.json();
     
             return (data.joueur || []).map(j => j.pseudo);
@@ -25,7 +25,7 @@ class Data {
 
     static async getBloquer(id) {
         try {
-            const response = await fetch(`/turingmachine/assets/js/joueur.json?t=${new Date().getTime()}`);
+            const response = await fetch(`/assets/js/joueur.json?t=${new Date().getTime()}`);
             const data = await response.json();
             const joueur = data.joueur.find(j => j.id == id);
             return joueur.bloquer;
@@ -37,7 +37,7 @@ class Data {
 
     static async getJoueur() {
         try {
-            const response = await fetch(`/turingmachine/assets/js/joueur.json?t=${new Date().getTime()}`);
+            const response = await fetch(`/assets/js/joueur.json?t=${new Date().getTime()}`);
             const data = await response.json();
     
             return (data.joueur);
@@ -49,7 +49,7 @@ class Data {
 
     static async getStat(id) {
         try {
-            const response = await fetch(`/turingmachine/assets/js/joueur.json?t=${new Date().getTime()}`);
+            const response = await fetch(`/assets/js/joueur.json?t=${new Date().getTime()}`);
             const data = await response.json();
     
             const joueur = data.joueur.find(j => j.id === id);
@@ -63,7 +63,7 @@ class Data {
 
     static async getRecords(mois = null, annee = null, zero = "") {
         try {
-            const response = await fetch(`/turingmachine/assets/js/joueur.json?t=${new Date().getTime()}`);
+            const response = await fetch(`/assets/js/joueur.json?t=${new Date().getTime()}`);
             const data = await response.json();
             const dateActuelle = new Date();
             const moisActuel = mois !== null ? mois : (dateActuelle.getMonth() + 1).toString().padStart(2, "0");
@@ -102,8 +102,8 @@ class Data {
         try {
             // Lancer les fetch en parallèle
             const [response, response2] = await Promise.all([
-                fetch(`/turingmachine/assets/js/plateau.json?t=${Date.now()}`),
-                fetch(`/turingmachine/assets/js/jeu.json?t=${Date.now()}`)
+                fetch(`/assets/js/plateau.json?t=${Date.now()}`),
+                fetch(`/assets/js/jeu.json?t=${Date.now()}`)
             ]);
     
             // Parser les JSON en parallèle
@@ -143,7 +143,7 @@ class Data {
             const possibleConditions = [4, 5, 6];
             for (let o = 0; o < 3; o++) {
                 for (let i = 0; i < 3; i++) {
-                    const response = await fetch(`/turingmachine/assets/js/partie/classique_${difficultesPossibles[o]}_${possibleConditions[i]}.json?t=${new Date().getTime()}`);
+                    const response = await fetch(`/assets/js/partie/classique_${difficultesPossibles[o]}_${possibleConditions[i]}.json?t=${new Date().getTime()}`);
                     const jeu = await response.json();
                     const keys = Object.keys(jeu);
                     
@@ -155,7 +155,7 @@ class Data {
                 }
             }
         } else {
-            const response = await fetch(`/turingmachine/assets/js/partie/classique_${conditionDifficulteValue}_${conditionVerificateurValue}.json?t=${new Date().getTime()}`);
+            const response = await fetch(`/assets/js/partie/classique_${conditionDifficulteValue}_${conditionVerificateurValue}.json?t=${new Date().getTime()}`);
             const jeu = await response.json();
             const keys = Object.keys(jeu);
     
@@ -170,7 +170,7 @@ class Data {
             return null;
         }
     
-        const response = await fetch(`/turingmachine/assets/js/partie/classique_${conditionDifficulteValue}_${conditionVerificateurValue}.json?t=${new Date().getTime()}`);
+        const response = await fetch(`/assets/js/partie/classique_${conditionDifficulteValue}_${conditionVerificateurValue}.json?t=${new Date().getTime()}`);
         const jeu = await response.json();
         const keys = Object.keys(jeu);
     
@@ -184,7 +184,7 @@ class Data {
     static async getCode(carteVerification = false) {
         try {
             const data = await Data.getPlateau();
-            const responses = await fetch(`/turingmachine/assets/js/jeu.json?t=${new Date().getTime()}`);
+            const responses = await fetch(`/assets/js/jeu.json?t=${new Date().getTime()}`);
             const jeu = await responses.json();
             let tableau = Array.isArray(data) ? data : Object.values(data);
             tableau.splice(-2);
@@ -232,7 +232,7 @@ class Data {
         let valeurTrouvee = null;
     
         try {
-            const response = await fetch(`/turingmachine/assets/js/jeu.json?t=${new Date().getTime()}`);
+            const response = await fetch(`/assets/js/jeu.json?t=${new Date().getTime()}`);
             const jeu = await response.json();
     
             let [chiffre1, chiffre2, chiffre3] = code.split("").map(Number);
@@ -265,7 +265,7 @@ class Data {
     
     static async getCritere(carte) {
         try {
-            const response = await fetch(`/turingmachine/assets/js/jeu.json?t=${new Date().getTime()}`);
+            const response = await fetch(`/assets/js/jeu.json?t=${new Date().getTime()}`);
             const jeu = await response.json();
     
             let resultat = [];
@@ -285,7 +285,7 @@ class Data {
 
     static async addResultat(id, resultat) {
         try {
-            const response = await fetch(`/turingmachine/api/addResultat.php?t=${new Date().getTime()}`, {
+            const response = await fetch(`/api/addResultat.php?t=${new Date().getTime()}`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
@@ -303,7 +303,7 @@ class Data {
 
     static async addJoueur(id, pseudo) {
         try {
-            const response = await fetch(`/turingmachine/api/addJoueur.php?t=${new Date().getTime()}`, {
+            const response = await fetch(`/api/addJoueur.php?t=${new Date().getTime()}`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
@@ -321,7 +321,7 @@ class Data {
 
     static async saveJoueurs(joueurs) {
         try {
-            const response = await fetch(`/turingmachine/api/saveJoueurs.php?t=${new Date().getTime()}`, {
+            const response = await fetch(`/api/saveJoueurs.php?t=${new Date().getTime()}`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ joueur: joueurs })
