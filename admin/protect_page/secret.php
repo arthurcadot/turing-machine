@@ -10,7 +10,7 @@ if (isset($_POST['mot_de_passe']) && $_POST['mot_de_passe'] === $mot_de_passe_co
     $token = hash('sha256', $mot_de_passe_correct . CLE_SECRETE);
 
     // Cookie valable 4 mois
-    setcookie('mdp_cookie_admin', $token, time() + (4 * 30 * 24 * 3600), "/", "", false, true); // HTTPOnly = true
+    setcookie('mdp_cookie_admin', $token, time() + (1 * 3600), "/", "", false, true); // HTTPOnly = true
 
     header('Location: ../index.php');
     exit();
