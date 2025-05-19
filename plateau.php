@@ -1,3 +1,7 @@
+<?php
+require_once('protect_page/code.php');
+?>
+
 <div class="container container-plateau">
     <h1>Mise en place</h1>
     <div class="calc">

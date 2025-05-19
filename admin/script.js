@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const errorMessage = document.getElementById("errorMessage");
 
     document.getElementById("btn_quitter").addEventListener("click", async function () {
-        await fetch("logout.php", { method: "GET" });
+        await fetch("protect_page/logout.php", { method: "GET" });
         window.location.href = "index.php";
     });
 

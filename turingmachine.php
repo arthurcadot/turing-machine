@@ -1,3 +1,7 @@
+<?php
+require_once('protect_page/code.php');
+?>
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>

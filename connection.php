@@ -1,3 +1,7 @@
+<?php
+require_once('protect_page/code.php');
+?>
+
 <div class="container container-connection">
     <h1>Connexion</h1>
     <div class="form">

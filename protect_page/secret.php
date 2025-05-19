@@ -10,13 +10,13 @@ if (isset($_POST['mot_de_passe']) && $_POST['mot_de_passe'] === $mot_de_passe_co
     $token = hash('sha256', $mot_de_passe_correct . CLE_SECRETE);
 
     // Cookie valable 4 mois
-    setcookie('mdp_cookie_admin', $token, time() + (4 * 30 * 24 * 3600), "/", "", false, true); // HTTPOnly = true
+    setcookie('mdp_cookie_client', $token, time() + (4 * 30 * 24 * 3600), "/", "", false, true); // HTTPOnly = true
 
     header('Location: ../index.php');
     exit();
 } else {
     // Supprime le cookie en cas d'échec
-    setcookie('mdp_cookie_admin', '', time() - 3600, "/", "", false, true);
+    setcookie('mdp_cookie_client', '', time() - 3600, "/", "", false, true);
     header('Location: index.php');
     exit();
 }

@@ -44,13 +44,13 @@ async function loadPage(page) {
     content.innerHTML = "";
 
     const pages = {
-        "accueil": { file: "accueil.html", init: initAccueilPage },
-        "record": { file: "record.html", init: initRecordPage },
-        "connection": { file: "connection.html", init: initConnectionPage },
-        "stat": { file: "stat.html", init: initStatPage },
-        "code": { file: "code.html", init: initCodePage },
-        "plateau": { file: "plateau.html", init: initPlateauPage },
-        "historique": { file: "historique.html", init: initHistoriquePage }
+        "accueil": { file: "accueil.php", init: initAccueilPage },
+        "record": { file: "record.php", init: initRecordPage },
+        "connection": { file: "connection.php", init: initConnectionPage },
+        "stat": { file: "stat.php", init: initStatPage },
+        "code": { file: "code.php", init: initCodePage },
+        "plateau": { file: "plateau.php", init: initPlateauPage },
+        "historique": { file: "historique.php", init: initHistoriquePage }
     };
 
     if (pages[page]) {

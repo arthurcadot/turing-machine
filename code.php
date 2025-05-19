@@ -1,3 +1,7 @@
+<?php
+require_once('protect_page/code.php');
+?>
+
 <div class="container container-code">
     <h1>Page de test de code</h1>
     <div class="container-calc">

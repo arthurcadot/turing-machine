@@ -1,3 +1,7 @@
+<?php
+require_once('protect_page/code.php');
+?>
+
 <div class="container container-historique">
     <h1>Historique</h1>
     <div class="stat-container">

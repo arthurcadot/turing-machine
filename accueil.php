@@ -1,3 +1,7 @@
+<?php
+require_once('protect_page/code.php');
+?>
+
 <div class="container">
     <img class="banner" src="assets/img/banner.png">
     <div class="record-container record-accueil">

@@ -1,5 +1,5 @@
 <?php
-setcookie('mdp_cookie_admin', '', time() - 3600, "/", "", false, true);
+setcookie('mdp_cookie_client', '', time() - 3600, "/", "", false, true);
 ?>
 <!DOCTYPE html>
 <html xml:lang="fr">

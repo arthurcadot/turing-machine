@@ -7,9 +7,9 @@ $mot_de_passe_correct = 'labo25!';
 $token_attendu = hash('sha256', $mot_de_passe_correct . CLE_SECRETE);
 
 // Vérification du cookie uniquement
-if (!isset($_COOKIE['mdp_cookie_admin']) || $_COOKIE['mdp_cookie_admin'] !== $token_attendu) {
+if (!isset($_COOKIE['mdp_cookie_client']) || $_COOKIE['mdp_cookie_client'] !== $token_attendu) {
     // Supprime le cookie
-    setcookie('mdp_cookie_admin', '', time() - 3600, "/", "", false, true);
+    setcookie('mdp_cookie_client', '', time() - 3600, "/", "", false, true);
 
     // Redirection
     if ((array_reverse(explode("/", getcwd())))[0] == "protect_page") {

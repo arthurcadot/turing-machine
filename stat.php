@@ -1,3 +1,7 @@
+<?php
+require_once('protect_page/code.php');
+?>
+
 <div class="container container-stat">
     <h1>Statistique</h1>
     <div class="stat-container">

@@ -1,3 +1,7 @@
+<?php
+require_once('protect_page/code.php');
+?>
+
 <div class="container container-record">
     <h1>Classement des records</h1>
     <div class="record-container">
